@@ -86,7 +86,7 @@
 <br/>  
 
 ## 🔝 Top Contributed Repo
-<div align="center">![](https://github-contributor-stats.vercel.app/api?username=eshanized&limit=5&theme=dark&combine_all_yearly_contributions=true)</div>
+![](https://github-contributor-stats.vercel.app/api?username=eshanized&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## Connect with me  
