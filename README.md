@@ -6,7 +6,10 @@
 # <div align="center">Hey 👋, I'm [Eshan Roy.](https://eshanized.github.io/) </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eshanized&&style=flat-square" align="center" />
-</div>  
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eshanized&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 
 - ### 🔭 Currently struggling  with **[SNIGDHA OS.](https://github.com/Snigdha-OS)** 😊  
