@@ -49,7 +49,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="center" halign width="50%">
 
 #### Struggling  with **[SNIGDHA OS.](https://github.com/Snigdha-OS)** 😊  
   
