@@ -6,9 +6,8 @@
 </div>  
 
 
-<div align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eshanized?cardType=level-alternate&theme=vue&preferLogin=false)](https://git.io/awesome-stats-card)
-</div>  
+<div align="center">[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eshanized?cardType=level-alternate&theme=vue&preferLogin=false)](https://git.io/awesome-stats-card)</div>
+
 
 
 
