@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2784" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3200" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}svg.large .audits{display:inline-flex;width:474px}svg.large .audits section:last-child&gt;.field{justify-content:right}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}svg.large .audits{display:inline-flex;width:474px}svg.large .audits section:last-child&gt;.field{justify-content:right}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number{color:#2777aa}.token.tag{color:#48428a}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            172 issue comments
+                            173 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    8.57 GB used
+                                    8.58 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    232 added, 3 removed
                                 </div>
                             </section>
                             <section>
@@ -521,13 +521,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.20 s</div>
+                        <div class="audit text">0.23 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.20 s</div>
+                        <div class="audit text">0.23 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -563,13 +563,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.20 s</div>
+                        <div class="audit text">0.23 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.20 s</div>
+                        <div class="audit text">0.23 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -588,13 +588,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 48 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 31.9 characters per line of code written</li>
-                        <li>Mostly pushes code around 07:00</li>
+                        <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -704,11 +704,11 @@
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,32.42307692307692)">
+                                <g class="tick" opacity="1" transform="translate(0,37.642857142857146)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">10</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,68.96153846153845)">
+                                <g class="tick" opacity="1" transform="translate(0,71.57142857142857)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">5</text>
                                 </g>
@@ -717,17 +717,17 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,75.769L29.565,90.385L49.13,105L68.696,105L88.261,17.308L107.826,68.462L127.391,17.308L146.957,10L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,105L381.739,105L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,10L127.391,17.308L107.826,68.462L88.261,17.308L68.696,105L49.13,105L29.565,90.385L10,75.769Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,77.857L29.565,91.429L49.13,105L68.696,105L88.261,10L107.826,71.071L127.391,23.571L146.957,23.571L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,105L381.739,105L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,23.571L127.391,23.571L107.826,71.071L88.261,10L68.696,105L49.13,105L29.565,91.429L10,77.857Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
-                                <circle transform="translate(10,10)" cx="10" cy="75.76923076923077" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="90.38461538461537" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="10" cy="77.85714285714286" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="17.307692307692303" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="68.46153846153845" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="17.307692307692303" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="71.07142857142857" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="23.571428571428577" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="23.571428571428577" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
@@ -746,14 +746,14 @@
                                 <circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="75.76923076923077" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="29.565217391304348" y="90.38461538461537" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="10" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="29.565217391304348" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="88.26086956521739" y="17.307692307692303" fill="rgba(127, 127, 127, .8)">12</text>
-                                <text transform="translate(10,6)" x="107.82608695652173" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">5</text>
-                                <text transform="translate(10,6)" x="127.3913043478261" y="17.307692307692303" fill="rgba(127, 127, 127, .8)">12</text>
-                                <text transform="translate(10,6)" x="146.95652173913044" y="10" fill="rgba(127, 127, 127, .8)">13</text>
+                                <text transform="translate(10,6)" x="88.26086956521739" y="10" fill="rgba(127, 127, 127, .8)">14</text>
+                                <text transform="translate(10,6)" x="107.82608695652173" y="71.07142857142857" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="127.3913043478261" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">12</text>
+                                <text transform="translate(10,6)" x="146.95652173913044" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">12</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -824,15 +824,15 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,17.917L41,10L72,57.5L103,81.25L134,57.5L165,73.333L196,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,57.5L165,73.333L134,57.5L103,81.25L72,57.5L41,10L10,17.917Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,17.917L41,10L72,57.5L103,81.25L134,57.5L165,65.417L196,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,57.5L165,65.417L134,57.5L103,81.25L72,57.5L41,10L10,17.917Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="17.91666666666667" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="57.5" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="81.25" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="57.5" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="73.33333333333334" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="65.41666666666666" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="57.5" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
@@ -841,7 +841,7 @@
                                     <text transform="translate(10,6)" x="72" y="57.5" fill="rgba(127, 127, 127, .8)">6</text>
                                     <text transform="translate(10,6)" x="103" y="81.25" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="134" y="57.5" fill="rgba(127, 127, 127, .8)">6</text>
-                                    <text transform="translate(10,6)" x="165" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">4</text>
+                                    <text transform="translate(10,6)" x="165" y="65.41666666666666" fill="rgba(127, 127, 127, .8)">5</text>
                                     <text transform="translate(10,6)" x="196" y="57.5" fill="rgba(127, 127, 127, .8)">6</text>
                                 </g>
                             </svg>
@@ -1928,6 +1928,641 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">Snigdha-OS/snigdhaos-status</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e98007</div>
+                                        <div class="message">🟩 SNIGDHAOS-EXTRA is up (200 in 8 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39b96ab</div>
+                                        <div class="message">🟩 SNIGDHAOS-CORE is up (200 in 68 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d17e5c</div>
+                                        <div class="message">🟩 SNIGDHAOS-IODOCS is up (200 in 13 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf0d3fc</div>
+                                        <div class="message">🟥 SNIGDHAOS-DOCS is down (404 in 188 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90dbeaa</div>
+                                        <div class="message">🟥 SNIGDHAOS-FORUM is down (404 in 801 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2032211</div>
+                                        <div class="message">🟥 SNIGDHAOS-CLOUD is down (0 in 0 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff3ac22</div>
+                                        <div class="message">🟩 SNIGDHAOS-IO is up (200 in 77 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e607975</div>
+                                        <div class="message">🟥 SNIGDHAOS-ORG is down (404 in 811 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Nov 2024, 04:50:53</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 92 commits in
+                                        <span class="repo">Snigdha-OS/snigdhaos-kernel</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4a201dc</div>
+                                        <div class="message">xfs: update the pag for the last AG at recovery time
+
+Currently log recovery never updates the in-core perag values for the
+last allocation group when they were grown by growfs.  This leads to
+btree record validation failures for the alloc, ialloc or finotbt
+trees if a transaction references this new space.
+
+Found by Brian's new growfs recovery stress test.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#069cf5e</div>
+                                        <div class="message">xfs: don't use __GFP_RETRY_MAYFAIL in xfs_initialize_perag
+
+__GFP_RETRY_MAYFAIL increases the likelyhood of allocations to fail,
+which isn't really helpful during log recovery.  Remove the flag and
+stick to the default GFP_KERNEL policies.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Reviewed-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b882b0f</div>
+                                        <div class="message">xfs: error out when a superblock buffer update reduces the agcount
+
+XFS currently does not support reducing the agcount, so error out if
+a logged sb buffer tries to shrink the agcount.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Reviewed-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a18765</div>
+                                        <div class="message">xfs: update the file system geometry after recoverying superblock buffers
+
+Primary superblock buffers that change the file system geometry after a
+growfs operation can affect the operation of later CIL checkpoints that
+make use of the newly added space and allocation groups.
+
+Apply the changes to the in-memory structures as part of recovery pass 2,
+to ensure recovery works fine for such cases.
+
+In the future we should apply the logic to other updates such as features
+bits as well.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Reviewed-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa67ec6</div>
+                                        <div class="message">xfs: merge the perag freeing helpers
+
+There is no good reason to have two different routines for freeing perag
+structures for the unmount and error cases.  Add two arguments to specify
+the range of AGs to free to xfs_free_perag, and use that to replace
+xfs_free_unused_perag_range.
+
+The addition RCU grace period for the error case is harmless, and the
+extra check for the AG to actually exist is not required now that the
+callers pass the exact known allocated range.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Reviewed-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82742f8</div>
+                                        <div class="message">xfs: pass the exact range to initialize to xfs_initialize_perag
+
+Currently only the new agcount is passed to xfs_initialize_perag, which
+requires lookups of existing AGs to skip them and complicates error
+handling.  Also pass the previous agcount so that the range that
+xfs_initialize_perag operates on is exactly defined.  That way the
+extra lookups can be avoided, and error handling can clean up the
+exact range from the old count to the last added perag structure.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Reviewed-by: Brian Foster &lt;bfoster@redhat.com&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af8512c</div>
+                                        <div class="message">xfs: don't fail repairs on metadata files with no attr fork
+
+Fix a minor bug where we fail repairs on metadata files that do not have
+attr forks because xrep_metadata_inode_subtype doesn't filter ENOENT.
+
+Cc: stable@vger.kernel.org # v6.8
+Fixes: 5a8e07e799721b ("xfs: repair the inode core and forks of a metadata inode")
+Signed-off-by: Darrick J. Wong &lt;djwong@kernel.org&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Carlos Maiolino &lt;cem@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3267cb6</div>
+                                        <div class="message">x86/lam: Disable ADDRESS_MASKING in most cases
+
+Linear Address Masking (LAM) has a weakness related to transient
+execution as described in the SLAM paper[1]. Unless Linear Address
+Space Separation (LASS) is enabled this weakness may be exploitable.
+
+Until kernel adds support for LASS[2], only allow LAM for COMPILE_TEST,
+or when speculation mitigations have been disabled at compile time,
+otherwise keep LAM disabled.
+
+There are no processors in market that support LAM yet, so currently
+nobody is affected by this issue.
+
+[1] SLAM: https://download.vusec.net/papers/slam_sp24.pdf
+[2] LASS: https://lore.kernel.org/lkml/20230609183632.48706-1-alexander.shishkin@linux.intel.com/
+
+[ dhansen: update SPECULATION_MITIGATIONS -&gt; CPU_MITIGATIONS ]
+
+Signed-off-by: Pawan Gupta &lt;pawan.kumar.gupta@linux.intel.com&gt;
+Signed-off-by: Dave Hansen &lt;dave.hansen@linux.intel.com&gt;
+Reviewed-by: Sohil Mehta &lt;sohil.mehta@intel.com&gt;
+Acked-by: Kirill A. Shutemov &lt;kirill.shutemov@linux.intel.com&gt;
+Cc:stable@vger.kernel.org
+Link: https://lore.kernel.org/all/5373262886f2783f054256babdf5a98545dc986b.1706068222.git.pawan.kumar.gupta%40linux.intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2b5b82</div>
+                                        <div class="message">spi: mtk-snfi: fix kerneldoc for mtk_snand_is_page_ops()
+
+The op argument is missing the colon and is not picked up by the
+kerneldoc generator. Fix it to address the following build warning:
+
+drivers/spi/spi-mtk-snfi.c:1201: warning: Function parameter or struct member 'op' not described in 'mtk_snand_is_page_ops'
+
+Fixes: 764f1b748164 ("spi: add driver for MTK SPI NAND Flash Interface")
+Signed-off-by: Bartosz Golaszewski &lt;bartosz.golaszewski@linaro.org&gt;
+Link: https://patch.msgid.link/20241021142113.71081-1-brgl@bgdev.pl
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a799095</div>
+                                        <div class="message">platform/x86: dell-wmi: Ignore suspend notifications
+
+Some machines like the Dell G15 5155 emit WMI events when
+suspending/resuming. Ignore those WMI events.
+
+Tested-by: siddharth.manthan@gmail.com
+Signed-off-by: Armin Wolf &lt;W_Armin@gmx.de&gt;
+Acked-by: Pali Rohár &lt;pali@kernel.org&gt;
+Link: https://lore.kernel.org/r/20241014220529.397390-1-W_Armin@gmx.de
+Reviewed-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
+Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48771da</div>
+                                        <div class="message">platform/x86/intel/pmc: Fix pmc_core_iounmap to call iounmap for valid addresses
+
+Commit 50c6dbdfd16e ("x86/ioremap: Improve iounmap() address range checks")
+introduces a WARN when adrress ranges of iounmap are invalid. On Thinkpad
+P1 Gen 7 (Meteor Lake-P) this caused the following warning to appear:
+
+WARNING: CPU: 7 PID: 713 at arch/x86/mm/ioremap.c:461 iounmap+0x58/0x1f0
+Modules linked in: rfkill(+) snd_timer(+) fjes(+) snd soundcore intel_pmc_core(+)
+int3403_thermal(+) int340x_thermal_zone intel_vsec pmt_telemetry acpi_pad pmt_class
+acpi_tad int3400_thermal acpi_thermal_rel joydev loop nfnetlink zram xe drm_suballoc_helper
+nouveau i915 mxm_wmi drm_ttm_helper gpu_sched drm_gpuvm drm_exec drm_buddy i2c_algo_bit
+crct10dif_pclmul crc32_pclmul ttm crc32c_intel polyval_clmulni rtsx_pci_sdmmc ucsi_acpi
+polyval_generic mmc_core hid_multitouch drm_display_helper ghash_clmulni_intel typec_ucsi
+nvme sha512_ssse3 video sha256_ssse3 nvme_core intel_vpu sha1_ssse3 rtsx_pci cec typec
+nvme_auth i2c_hid_acpi i2c_hid wmi pinctrl_meteorlake serio_raw ip6_tables ip_tables fuse
+CPU: 7 UID: 0 PID: 713 Comm: (udev-worker) Not tainted 6.12.0-rc2iounmap+ #42
+Hardware name: LENOVO 21KWCTO1WW/21KWCTO1WW, BIOS N48ET19W (1.06 ) 07/18/2024
+RIP: 0010:iounmap+0x58/0x1f0
+Code: 85 6a 01 00 00 48 8b 05 e6 e2 28 04 48 39 c5 72 19 eb 26 cc cc cc 48 ba 00 00 00 00 00 00 32 00 48 8d 44 02 ff 48 39 c5 72 23 &lt;0f&gt; 0b 48 83 c4 08 5b 5d 41 5c c3 cc cc cc cc 48 ba 00 00 00 00 00
+RSP: 0018:ffff888131eff038 EFLAGS: 00010207
+RAX: ffffc90000000000 RBX: 0000000000000000 RCX: ffff888e33b80000
+RDX: dffffc0000000000 RSI: ffff888e33bc29c0 RDI: 0000000000000000
+RBP: 0000000000000000 R08: ffff8881598a8000 R09: ffff888e2ccedc10
+R10: 0000000000000003 R11: ffffffffb3367634 R12: 00000000fe000000
+R13: ffff888101d0da28 R14: ffffffffc2e437e0 R15: ffff888110b03b28
+FS:  00007f3c1d4b3980(0000) GS:ffff888e33b80000(0000) knlGS:0000000000000000
+CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+CR2: 00005651cfc93578 CR3: 0000000124e4c002 CR4: 0000000000f70ef0
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000ffff07f0 DR7: 0000000000000400
+PKRU: 55555554
+Call Trace:
+&lt;TASK&gt;
+? __warn.cold+0xb6/0x176
+? iounmap+0x58/0x1f0
+? report_bug+0x1f4/0x2b0
+? handle_bug+0x58/0x90
+? exc_invalid_op+0x17/0x40
+? asm_exc_invalid_op+0x1a/0x20
+? iounmap+0x58/0x1f0
+pmc_core_ssram_get_pmc+0x477/0x6c0 [intel_pmc_core]
+? __pfx_pmc_core_ssram_get_pmc+0x10/0x10 [intel_pmc_core]
+? __pfx_do_pci_enable_device+0x10/0x10
+? pci_wait_for_pending+0x60/0x110
+? pci_enable_device_flags+0x1e3/0x2e0
+? __pfx_mtl_core_init+0x10/0x10 [intel_pmc_core]
+pmc_core_ssram_init+0x7f/0x110 [intel_pmc_core]
+mtl_core_init+0xda/0x130 [intel_pmc_core]
+? __mutex_init+0xb9/0x130
+pmc_core_probe+0x27e/0x10b0 [intel_pmc_core]
+? _raw_spin_lock_irqsave+0x96/0xf0
+? __pfx_pmc_core_probe+0x10/0x10 [intel_pmc_core]
+? __pfx_mutex_unlock+0x10/0x10
+? __pfx_mutex_lock+0x10/0x10
+? device_pm_check_callbacks+0x82/0x370
+? acpi_dev_pm_attach+0x234/0x2b0
+platform_probe+0x9f/0x150
+really_probe+0x1e0/0x8a0
+__driver_probe_device+0x18c/0x370
+? __pfx___driver_attach+0x10/0x10
+driver_probe_device+0x4a/0x120
+__driver_attach+0x190/0x4a0
+? __pfx___driver_attach+0x10/0x10
+bus_for_each_dev+0x103/0x180
+? __pfx_bus_for_each_dev+0x10/0x10
+? klist_add_tail+0x136/0x270
+bus_add_driver+0x2fc/0x540
+driver_register+0x1a5/0x360
+? __pfx_pmc_core_driver_init+0x10/0x10 [intel_pmc_core]
+do_one_initcall+0xa4/0x380
+? __pfx_do_one_initcall+0x10/0x10
+? kasan_unpoison+0x44/0x70
+do_init_module+0x296/0x800
+load_module+0x5090/0x6ce0
+? __pfx_load_module+0x10/0x10
+? ima_post_read_file+0x193/0x200
+? __pfx_ima_post_read_file+0x10/0x10
+? rw_verify_area+0x152/0x4c0
+? kernel_read_file+0x257/0x750
+? __pfx_kernel_read_file+0x10/0x10
+? __pfx_filemap_get_read_batch+0x10/0x10
+? init_module_from_file+0xd1/0x130
+init_module_from_file+0xd1/0x130
+? __pfx_init_module_from_file+0x10/0x10
+? __pfx__raw_spin_lock+0x10/0x10
+? __pfx_cred_has_capability.isra.0+0x10/0x10
+idempotent_init_module+0x236/0x770
+? __pfx_idempotent_init_module+0x10/0x10
+? fdget+0x58/0x3f0
+? security_capable+0x7d/0x110
+__x64_sys_finit_module+0xbe/0x130
+do_syscall_64+0x82/0x160
+? __pfx_filemap_read+0x10/0x10
+? __pfx___fsnotify_parent+0x10/0x10
+? vfs_read+0x3a6/0xa30
+? vfs_read+0x3a6/0xa30
+? __seccomp_filter+0x175/0xc60
+? __pfx___seccomp_filter+0x10/0x10
+? fdget_pos+0x1ce/0x500
+? syscall_exit_to_user_mode_prepare+0x149/0x170
+? syscall_exit_to_user_mode+0x10/0x210
+? do_syscall_64+0x8e/0x160
+? switch_fpu_return+0xe3/0x1f0
+? syscall_exit_to_user_mode+0x1d5/0x210
+? do_syscall_64+0x8e/0x160
+? exc_page_fault+0x76/0xf0
+entry_SYSCALL_64_after_hwframe+0x76/0x7e
+RIP: 0033:0x7f3c1d6d155d
+Code: ff c3 66 2e 0f 1f 84 00 00 00 00 00 90 f3 0f 1e fa 48 89 f8 48 89 f7 48 89 d6 48 89 ca 4d 89 c2 4d 89 c8 4c 8b 4c 24 08 0f 05 &lt;48&gt; 3d 01 f0 ff ff 73 01 c3 48 8b 0d 83 58 0f 00 f7 d8 64 89 01 48
+RSP: 002b:00007ffe6309db38 EFLAGS: 00000246 ORIG_RAX: 0000000000000139
+RAX: ffffffffffffffda RBX: 0000557c212550a0 RCX: 00007f3c1d6d155d
+RDX: 0000000000000000 RSI: 00007f3c1cd943bd RDI: 0000000000000025
+RBP: 00007ffe6309dbf0 R08: 00007f3c1d7c7b20 R09: 00007ffe6309db80
+R10: 0000557c21255270 R11: 0000000000000246 R12: 00007f3c1cd943bd
+R13: 0000000000020000 R14: 0000557c21255c80 R15: 0000557c21255240
+&lt;/TASK&gt;
+
+no_free_ptr(tmp_ssram) sets tmp_ssram NULL while assigning ssram.
+pmc_core_iounmap calls iounmap unconditionally causing the above
+warning to appear during boot.
+
+Fix it by checking for a valid address before calling iounmap.
+
+Also in the function pmc_core_ssram_get_pmc return -ENOMEM when
+ioremap fails similar to other instances in the file.
+
+Fixes: a01486dc4bb1 ("platform/x86/intel/pmc: Cleanup SSRAM discovery")
+Reviewed-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Reviewed-by: David E. Box &lt;david.e.box@linux.intel.com&gt;
+Signed-off-by: Vamsi Krishna Brahmajosyula &lt;vamsikrishna.brahmajosyula@gmail.com&gt;
+Link: https://lore.kernel.org/r/20241018104958.14195-1-vamsikrishna.brahmajosyula@gmail.com
+Reviewed-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
+Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fa6078</div>
+                                        <div class="message">platform/x86:intel/pmc: Revert "Enable the ACPI PM Timer to be turned off when suspended"
+
+Commit e86c8186d03a ("platform/x86:intel/pmc: Enable the ACPI PM Timer to
+be turned off when suspended") can cause the suspend process to hang as
+the pmcdev-&gt;lock in the pmc_core_acpi_pm_timer_suspend_resume might already
+be held by the pmc_core_mphy_pg_show or pmc_core_pll_show if the userspace
+gets frozen when these functions are being executed.
+
+Also, pmc_core_acpi_pm_timer_suspend_resume must not sleep, as this
+function is called indirectly by the tick_freeze function in
+kernel/time/tick-common.c, which holds the spinlock.
+
+Revert the changes for now to fix these issues.
+
+Fixes: e86c8186d03a ("platform/x86:intel/pmc: Enable the ACPI PM Timer to be turned off when suspended")
+Reported-by: Luca Coelho &lt;luca@coelho.fi&gt;
+Closes: https://lore.kernel.org/lkml/40555604c3f4be43bf72e72d5409eaece4be9320.camel@coelho.fi/
+Signed-off-by: Marek Maslanka &lt;mmaslanka@google.com&gt;
+Link: https://lore.kernel.org/r/20241012182656.2107178-1-mmaslanka@google.com
+Reviewed-by: Hans de Goede &lt;hdegoede@redhat.com&gt;
+Signed-off-by: Hans de Goede &lt;hdegoede@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49c234b</div>
+                                        <div class="message">Merge tag 'md-6.12-20241018' of https://git.kernel.org/pub/scm/linux/kernel/git/song/md into block-6.12
+
+Pull MD fixes from Song.
+
+* tag 'md-6.12-20241018' of https://git.kernel.org/pub/scm/linux/kernel/git/song/md:
+  md/raid10: fix null ptr dereference in raid10_size()
+  md: ensure child flush IO does not affect origin bio-&gt;bi_status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#825711e</div>
+                                        <div class="message">md/raid10: fix null ptr dereference in raid10_size()
+
+In raid10_run() if raid10_set_queue_limits() succeed, the return value
+is set to zero, and if following procedures failed raid10_run() will
+return zero while mddev-&gt;private is still NULL, causing null ptr
+dereference in raid10_size().
+
+Fix the problem by only overwrite the return value if
+raid10_set_queue_limits() failed.
+
+Fixes: 3d8466ba68d4 ("md/raid10: use the atomic queue limit update APIs")
+Cc: stable@vger.kernel.org
+Reported-and-tested-by: ValdikSS &lt;iam@valdikss.org.ru&gt;
+Closes: https://lore.kernel.org/all/0dd96820-fe52-4841-bc58-dbf14d6bfcc8@valdikss.org.ru/
+Signed-off-by: Yu Kuai &lt;yukuai3@huawei.com&gt;
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Link: https://lore.kernel.org/r/20241009014914.1682037-1-yukuai1@huaweicloud.com
+Signed-off-by: Song Liu &lt;song@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62ce078</div>
+                                        <div class="message">md: ensure child flush IO does not affect origin bio-&gt;bi_status
+
+When a flush is issued to an RAID array, a child flush IO is created and
+issued for each member disk in the RAID array. Since commit b75197e86e6d
+("md: Remove flush handling"), each child flush IO has been chained with
+the original bio. As a result, the failure of any child IO could modify
+the bi_status of the original bio, potentially impacting the upper-layer
+filesystem.
+
+Fix the issue by preventing child flush IO from altering the original
+bio-&gt;bi_status as before. However, this design introduces a known
+issue: in the event of a power failure, if a flush IO on a member
+disk fails, the upper layers may not be informed. This issue is not easy
+to fix and will not be addressed for the time being in this issue.
+
+Fixes: b75197e86e6d ("md: Remove flush handling")
+Signed-off-by: Li Nan &lt;linan122@huawei.com&gt;
+Reviewed-by: Yu Kuai &lt;yukuai3@huawei.com&gt;
+Link: https://lore.kernel.org/r/20240919063048.2887579-1-linan666@huaweicloud.com
+Signed-off-by: Song Liu &lt;song@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39c6a35</div>
+                                        <div class="message">perf trace: The return from 'write' isn't a pid
+
+When adding a explicit beautifier for the 'write' syscall when the BPF
+based buffer collector was introduced there was a cut'n'paste error that
+carried the syscall_fmt-&gt;errpid setting from a nearby syscall (waitid)
+that returns a pid.
+
+So the write return was being suppressed by the return pretty printer,
+remove that field, reverting it back to the default return handler, that
+prints positive numbers as-is and interpret negative values as errnos.
+
+I actually introduced the problem while making Howard's original patch
+work just with the 'write' syscall, as we couldn't just look for any
+buffers, the ones that are filled in by the kernel couldn't use the same
+sys_enter BPF collector.
+
+Fixes: b257fac12f38d7f5 ("perf trace: Pretty print buffer data")
+Reported-by: James Clark &lt;james.clark@linaro.org&gt;
+Link: https://lore.kernel.org/lkml/bcf50648-3c7e-4513-8717-0d14492c53b9@linaro.org
+Link: https://lore.kernel.org/all/Zt8jTfzDYgBPvFCd@x1/#t
+Cc: Adrian Hunter &lt;adrian.hunter@intel.com&gt;
+Cc: Alan Maguire &lt;alan.maguire@oracle.com&gt;
+Cc: Howard Chu &lt;howardchu95@gmail.com&gt;
+Cc: Ian Rogers &lt;irogers@google.com&gt;
+Cc: Jiri Olsa &lt;jolsa@kernel.org&gt;
+Cc: Kan Liang &lt;kan.liang@linux.intel.com&gt;
+Cc: Namhyung Kim &lt;namhyung@kernel.org&gt;
+Signed-off-by: Arnaldo Carvalho de Melo &lt;acme@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab8aaab</div>
+                                        <div class="message">tools headers UAPI: Sync linux/const.h with the kernel headers
+
+To pick up the changes in:
+
+  947697c6f0f75f98 ("uapi: Define GENMASK_U128")
+
+That causes no changes in tooling, just addresses this perf build
+warning:
+
+  Warning: Kernel ABI header differences:
+    diff -u tools/include/uapi/linux/const.h include/uapi/linux/const.h
+
+Cc: Adrian Hunter &lt;adrian.hunter@intel.com&gt;
+Cc: Anshuman Khandual &lt;anshuman.khandual@arm.com&gt;
+Cc: Ian Rogers &lt;irogers@google.com&gt;
+Cc: Jiri Olsa &lt;jolsa@kernel.org&gt;
+Cc: Kan Liang &lt;kan.liang@linux.intel.com&gt;
+Cc: Namhyung Kim &lt;namhyung@kernel.org&gt;
+Cc: Yury Norov &lt;yury.norov@gmail.com&gt;
+Link: https://lore.kernel.org/lkml/ZwltGNJwujKu1Fgn@x1
+Signed-off-by: Arnaldo Carvalho de Melo &lt;acme@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cc4e13</div>
+                                        <div class="message">cgroup: Fix potential overflow issue when checking max_depth
+
+cgroup.max.depth is the maximum allowed descent depth below the current
+cgroup. If the actual descent depth is equal or larger, an attempt to
+create a new child cgroup will fail. However due to the cgroup-&gt;max_depth
+is of int type and having the default value INT_MAX, the condition
+'level &gt; cgroup-&gt;max_depth' will never be satisfied, and it will cause
+an overflow of the level after it reaches to INT_MAX.
+
+Fix it by starting the level from 0 and using '&gt;=' instead.
+
+It's worth mentioning that this issue is unlikely to occur in reality,
+as it's impossible to have a depth of INT_MAX hierarchy, but should be
+be avoided logically.
+
+Fixes: 1a926e0bbab8 ("cgroup: implement hierarchy limits")
+Signed-off-by: Xiu Jianfeng &lt;xiujianfeng@huawei.com&gt;
+Reviewed-by: Michal Koutný &lt;mkoutny@suse.com&gt;
+Signed-off-by: Tejun Heo &lt;tj@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5a4681</div>
+                                        <div class="message">spi: stm32: fix missing device mode capability in stm32mp25
+
+The STM32MP25 SOC has capability to behave in device mode however
+missing .has_device_mode within its stm32mp25_spi_cfg structure leads
+to not being able to enable the device mode.
+
+Signed-off-by: Alain Volmat &lt;alain.volmat@foss.st.com&gt;
+Link: https://patch.msgid.link/20241009-spi-mp25-device-fix-v1-1-8e5ca7db7838@foss.st.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#117932e</div>
+                                        <div class="message">cgroup/bpf: use a dedicated workqueue for cgroup bpf destruction
+
+A hung_task problem shown below was found:
+
+INFO: task kworker/0:0:8 blocked for more than 327 seconds.
+"echo 0 &gt; /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+Workqueue: events cgroup_bpf_release
+Call Trace:
+ &lt;TASK&gt;
+ __schedule+0x5a2/0x2050
+ ? find_held_lock+0x33/0x100
+ ? wq_worker_sleeping+0x9e/0xe0
+ schedule+0x9f/0x180
+ schedule_preempt_disabled+0x25/0x50
+ __mutex_lock+0x512/0x740
+ ? cgroup_bpf_release+0x1e/0x4d0
+ ? cgroup_bpf_release+0xcf/0x4d0
+ ? process_scheduled_works+0x161/0x8a0
+ ? cgroup_bpf_release+0x1e/0x4d0
+ ? mutex_lock_nested+0x2b/0x40
+ ? __pfx_delay_tsc+0x10/0x10
+ mutex_lock_nested+0x2b/0x40
+ cgroup_bpf_release+0xcf/0x4d0
+ ? process_scheduled_works+0x161/0x8a0
+ ? trace_event_raw_event_workqueue_execute_start+0x64/0xd0
+ ? process_scheduled_works+0x161/0x8a0
+ process_scheduled_works+0x23a/0x8a0
+ worker_thread+0x231/0x5b0
+ ? __pfx_worker_thread+0x10/0x10
+ kthread+0x14d/0x1c0
+ ? __pfx_kthread+0x10/0x10
+ ret_from_fork+0x59/0x70
+ ? __pfx_kthread+0x10/0x10
+ ret_from_fork_asm+0x1b/0x30
+ &lt;/TASK&gt;
+
+This issue can be reproduced by the following pressuse test:
+1. A large number of cpuset cgroups are deleted.
+2. Set cpu on and off repeatly.
+3. Set watchdog_thresh repeatly.
+The scripts can be obtained at LINK mentioned above the signature.
+
+The reason for this issue is cgroup_mutex and cpu_hotplug_lock are
+acquired in different tasks, which may lead to deadlock.
+It can lead to a deadlock through the following steps:
+1. A large number of cpusets are deleted asynchronously, which puts a
+   large number of cgroup_bpf_release works into system_wq. The max_active
+   of system_wq is WQ_DFL_ACTIVE(256). Consequently, all active works are
+   cgroup_bpf_release works, and many cgroup_bpf_release works will be put
+   into inactive queue. As illustrated in the diagram, there are 256 (in
+   the acvtive queue) + n (in the inactive queue) works.
+2. Setting watchdog_thresh will hold cpu_hotplug_lock.read and put
+   smp_call_on_cpu work into system_wq. However step 1 has already filled
+   system_wq, 'sscs.work' is put into inactive queue. 'sscs.work' has
+   to wait until the works that were put into the inacvtive queue earlier
+   have executed (n cgroup_bpf_release), so it will be blocked for a while.
+3. Cpu offline requires cpu_hotplug_lock.write, which is blocked by step 2.
+4. Cpusets that were deleted at step 1 put cgroup_release works into
+   cgroup_destroy_wq. They are competing to get cgroup_mutex all the time.
+   When cgroup_metux is acqured by work at css_killed_work_fn, it will
+   call cpuset_css_offline, which needs to acqure cpu_hotplug_lock.read.
+   However, cpuset_css_offline will be blocked for step 3.
+5. At this moment, there are 256 works in active queue that are
+   cgroup_bpf_release, they are attempting to acquire cgroup_mutex, and as
+   a result, all of them are blocked. Consequently, sscs.work can not be
+   executed. Ultimately, this situation leads to four processes being
+   blocked, forming a deadlock.
+
+system_wq(step1)		WatchDog(step2)			cpu offline(step3)	cgroup_destroy_wq(step4)
+...
+2000+ cgroups deleted asyn
+256 actives + n inactives
+				__lockup_detector_reconfigure
+				P(cpu_hotplug_lock.read)
+				put sscs.work into system_wq
+256 + n + 1(sscs.work)
+sscs.work wait to be executed
+				warting sscs.work finish
+								percpu_down_write
+								P(cpu_hotplug_lock.write)
+								...blocking...
+											css_killed_work_fn
+											P(cgroup_mutex)
+											cpuset_css_offline
+											P(cpu_hotplug_lock.read)
+											...blocking...
+256 cgroup_bpf_release
+mutex_lock(&amp;cgroup_mutex);
+..blocking...
+
+To fix the problem, place cgroup_bpf_release works on a dedicated
+workqueue which can break the loop and solve the problem. System wqs are
+for misc things which shouldn't create a large number of concurrent work
+items. If something is going to generate &gt;WQ_DFL_ACTIVE(256) concurrent
+work items, it should use its own dedicated workqueue.
+
+Fixes: 4bfc0bb2c60e ("bpf: decouple the lifetime of cgroup_bpf from cgroup itself")
+Cc: stable@vger.kernel.org # v5.3+
+Link: https://lore.kernel.org/cgroups/e90c32d2-2a85-4f28-9154-09c7d320cb60@huawei.com/T/#t
+Tested-by: Vishal Chourasia &lt;vishalc@linux.ibm.com&gt;
+Signed-off-by: Chen Ridong &lt;chenridong@huawei.com&gt;
+Signed-off-by: Tejun Heo &lt;tj@kernel.org&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Nov 2024, 04:29:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Snigdha-OS/snigdhaos-status</span>
                                     </div>
@@ -2016,52 +2651,6 @@
                                 <div class="timestamp">31 Oct 2024, 04:49:47</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Snigdha-OS/snigdhaos-status</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a88e2de</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Update status summary [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1557114</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Update summary in README [skip ci] [upptime]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Oct 2024, 07:19:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Snigdha-OS/snigdhaos-status</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c05f9d5</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Update graphs [skip ci]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Oct 2024, 06:47:17</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2070,7 +2659,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
                     </svg>
-                    Overall users reactions from last 280 comments
+                    Overall users reactions from last 281 comments
                 </h2>
                 <div class="row">
                     <section>
@@ -2750,7 +3339,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 06:51:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 08:28:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
