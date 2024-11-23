@@ -85,7 +85,7 @@ jobs:
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://snigdhaos.org
+          plugin_pagespeed_url: https://snigdha-os.github.io
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_limit: 24
