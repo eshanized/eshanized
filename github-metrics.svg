@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3404 Commits
+                            3417 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -704,16 +704,16 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,101.346L29.565,105L49.13,105L68.696,105L88.261,79.423L107.826,105L127.391,79.423L146.957,68.462L166.522,68.462L186.087,57.5L205.652,10L225.217,86.731L244.783,64.808L264.348,64.808L283.913,105L303.478,83.077L323.043,90.385L342.609,86.731L362.174,50.192L381.739,75.769L401.304,50.192L420.87,53.846L440.435,86.731L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,86.731L420.87,53.846L401.304,50.192L381.739,75.769L362.174,50.192L342.609,86.731L323.043,90.385L303.478,83.077L283.913,105L264.348,64.808L244.783,64.808L225.217,86.731L205.652,10L186.087,57.5L166.522,68.462L146.957,68.462L127.391,79.423L107.826,105L88.261,79.423L68.696,105L49.13,105L29.565,105L10,101.346Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,101.346L29.565,105L49.13,105L68.696,105L88.261,83.077L107.826,105L127.391,83.077L146.957,68.462L166.522,68.462L186.087,57.5L205.652,10L225.217,86.731L244.783,64.808L264.348,64.808L283.913,105L303.478,83.077L323.043,83.077L342.609,86.731L362.174,50.192L381.739,75.769L401.304,50.192L420.87,53.846L440.435,86.731L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,86.731L420.87,53.846L401.304,50.192L381.739,75.769L362.174,50.192L342.609,86.731L323.043,83.077L303.478,83.077L283.913,105L264.348,64.808L244.783,64.808L225.217,86.731L205.652,10L186.087,57.5L166.522,68.462L146.957,68.462L127.391,83.077L107.826,105L88.261,83.077L68.696,105L49.13,105L29.565,105L10,101.346Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="101.34615384615385" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="79.42307692307693" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="79.42307692307693" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="68.46153846153845" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="68.46153846153845" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="57.5" r="2" fill="#106cbc"/>
@@ -723,7 +723,7 @@
                                 <circle transform="translate(10,10)" cx="264.3478260869565" cy="64.8076923076923" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="83.07692307692307" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="90.38461538461537" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="86.73076923076923" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="50.19230769230769" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="75.76923076923077" r="2" fill="#106cbc"/>
@@ -737,9 +737,9 @@
                                 <text transform="translate(10,6)" x="29.565217391304348" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="88.26086956521739" y="79.42307692307693" fill="rgba(127, 127, 127, .8)">7</text>
+                                <text transform="translate(10,6)" x="88.26086956521739" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="127.3913043478261" y="79.42307692307693" fill="rgba(127, 127, 127, .8)">7</text>
+                                <text transform="translate(10,6)" x="127.3913043478261" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">10</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">10</text>
                                 <text transform="translate(10,6)" x="186.08695652173913" y="57.5" fill="rgba(127, 127, 127, .8)">13</text>
@@ -749,7 +749,7 @@
                                 <text transform="translate(10,6)" x="264.3478260869565" y="64.8076923076923" fill="rgba(127, 127, 127, .8)">11</text>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">6</text>
-                                <text transform="translate(10,6)" x="323.04347826086956" y="90.38461538461537" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="323.04347826086956" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="86.73076923076923" fill="rgba(127, 127, 127, .8)">5</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="50.19230769230769" fill="rgba(127, 127, 127, .8)">15</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="75.76923076923077" fill="rgba(127, 127, 127, .8)">8</text>
@@ -811,13 +811,13 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,38.068L41,92.045L72,79.091L103,22.955L134,63.977L165,55.341L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,55.341L134,63.977L103,22.955L72,79.091L41,92.045L10,38.068Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,38.068L41,92.045L72,74.773L103,27.273L134,63.977L165,55.341L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,55.341L134,63.977L103,27.273L72,74.773L41,92.045L10,38.068Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="38.06818181818181" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="92.04545454545455" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="79.0909090909091" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="22.954545454545453" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="74.77272727272728" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="27.272727272727266" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="63.97727272727272" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="55.34090909090909" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="10" r="2" fill="#106cbc"/>
@@ -825,8 +825,8 @@
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="38.06818181818181" fill="rgba(127, 127, 127, .8)">31</text>
                                     <text transform="translate(10,6)" x="41" y="92.04545454545455" fill="rgba(127, 127, 127, .8)">6</text>
-                                    <text transform="translate(10,6)" x="72" y="79.0909090909091" fill="rgba(127, 127, 127, .8)">12</text>
-                                    <text transform="translate(10,6)" x="103" y="22.954545454545453" fill="rgba(127, 127, 127, .8)">38</text>
+                                    <text transform="translate(10,6)" x="72" y="74.77272727272728" fill="rgba(127, 127, 127, .8)">14</text>
+                                    <text transform="translate(10,6)" x="103" y="27.272727272727266" fill="rgba(127, 127, 127, .8)">36</text>
                                     <text transform="translate(10,6)" x="134" y="63.97727272727272" fill="rgba(127, 127, 127, .8)">19</text>
                                     <text transform="translate(10,6)" x="165" y="55.34090909090909" fill="rgba(127, 127, 127, .8)">23</text>
                                     <text transform="translate(10,6)" x="196" y="10" fill="rgba(127, 127, 127, .8)">44</text>
@@ -1938,6 +1938,48 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Snigdha-OS/snigdhaos-web-dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b9e9320</div>
+                                        <div class="message">chore(bio): add developers bio according to github</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Dec 2024, 16:49:53</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Snigdha-OS/snigdhaos-web-dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#46a4a46</div>
+                                        <div class="message">chore(devs): introduce developers</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Dec 2024, 16:34:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1985,48 +2027,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">3 Dec 2024, 12:54:24</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Snigdha-OS/documentation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2babcfc</div>
-                                        <div class="message">🐛 fix(min): some minor bugs and typos</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Dec 2024, 12:52:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Snigdha-OS/documentation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#55752b5</div>
-                                        <div class="message">🐛 fix(404): site not found</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Dec 2024, 12:49:49</div>
                             </section>
                         </div>
                     </section>
@@ -2246,7 +2246,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.44m out of 148m users</span>
+                                    <span class="gh">ranked 3.44m out of 150m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -2339,7 +2339,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.16m out of 148m users</span>
+                                    <span class="gh">ranked 1.16m out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2665,7 +2665,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2717,7 +2717,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 18:58:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 19:45:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
