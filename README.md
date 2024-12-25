@@ -1,101 +1,103 @@
 <div align="center">
-  <img src="https://readme-headers.vercel.app/api?text=Welcome+to+Eshanized!&bgColor=%23000000&textColor=%23F9A825&fontSize=50" alt="Welcome to Eshanized!">
+  <img src="https://readme-headers.vercel.app/api?text=Eshanized+-+Cybersecurity+Expert&bgColor=%23000000&textColor=%00FF00&fontSize=40" alt="Eshanized - Cybersecurity Expert">
 </div>
 
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Innovator-%F0%9F%92%A1-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%92%AA-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Enthusiast-%F0%9F%8C%90-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%8E%93-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%23FF5722.svg?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacker-%23FF0000.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Advocate-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Enthusiast-%230077B5.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00F760&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Eshan+(aka+Eshanized);Innovator+%7C+Open-Source+Contributor+%7C+Tech+Explorer;Let's+build+something+amazing+together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=26&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+the+Cyber+Matrix...;I+am+Eshan+(aka+Eshanized)!;Cybersecurity+Specialist+%7C+Open-Source+Contributor+%7C+Linux+Wizard;Embrace+the+power+of+code...+and+control+the+grid!" alt="Typing Animation">
 </p>
 
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eshanized/Eshanized/main/assets/profile-banner.gif" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Eshanized/Eshanized/main/assets/hacker-banner.gif" alt="Hacker Banner" width="100%">
+</div>
+
+
+
+## 🕵️‍♂️ **About Me**
+<div align="center">
+  <p>💻 **Cybersecurity Professional** | Expert in Penetration Testing and Ethical Hacking.</p>
+  <p>📂 **Open-Source Advocate** | Sharing tools, frameworks, and knowledge to empower the community.</p>
+  <p>⚙️ **Linux Guru** | Mastering everything from kernel tweaks to shell scripting.</p>
+  <p>☠️ **Breaking Boundaries** | Always exploring new vulnerabilities and exploits—ethically!</p>
+</div>
+
+
+
+## 💻 **Hacker's Arsenal**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,django,javascript,cpp,docker,kubernetes,aws" alt="Skills" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=kali,tor,wireshark,nginx,git,github,vim,vscode" alt="Hacking Tools" />
 </div>
 
 
 
 <div align="center">
-  <h2>🌟 About Me</h2>
-  <p>🛠️ Passionate about turning ideas into impactful solutions through code and creativity.</p>
-  <p>🎯 Focus Areas: Web Development, Open Source, and Cloud Technology.</p>
-  <p>🌱 Currently exploring AI, Cloud Solutions, and Microservices.</p>
-  <p>⚡ Fun Fact: Every problem has a solution—just add coffee ☕ and code!</p>
-</div>
-
-
-
-<div align="center">
-  <h2>🛠️ My Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,vue,tailwind,nodejs,django,aws,docker,kubernetes,linux&theme=dark" alt="Tech Stack" />
-</div>
-
-
-
-<div align="center">
-  <h2>🌍 Let's Connect</h2>
+  <h2>🔗 Let's Connect</h2>
   <a href="https://linkedin.com/in/eshanized">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/eshanized">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://eshanized.dev">
-    <img src="https://img.shields.io/badge/Portfolio-F9A825?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
   <a href="https://github.com/eshanized">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:eshan@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 
 
+## 📊 **GitHub Stats**
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=tokyonight&count_private=true" alt="Eshanized's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=dark&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=dark&background=000000&stroke=00FF00&ring=00FF00" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=dark&text_color=00ff00&bg_color=000000" alt="Top Languages">
 </div>
 
 
 
+## 🚀 **Featured Projects**
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
   <table>
     <thead>
       <tr>
-        <th align="center">🌟 Project</th>
-        <th align="center">📝 Description</th>
-        <th align="center">🌐 Live Demo/Repo</th>
+        <th>🛠️ Project</th>
+        <th>🔍 Description</th>
+        <th>🌐 Repo</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center"><strong>Snigdha OS</strong></td>
-        <td align="center">A lightweight, user-centric Linux distribution.</td>
-        <td align="center"><a href="https://github.com/snigdha-os">View on GitHub</a></td>
+        <td><b>Blackbox Framework</b></td>
+        <td>A robust framework for managing penetration testing tools.</td>
+        <td><a href="https://github.com/snigdha-os/blackbox">View Repo</a></td>
       </tr>
       <tr>
-        <td align="center"><strong>Playbook</strong></td>
-        <td align="center">A comprehensive guide to mastering tech workflows.</td>
-        <td align="center"><a href="https://github.com/eshanized/playbook">View Repo</a></td>
+        <td><b>Snigdha OS</b></td>
+        <td>A lightweight Linux distribution designed for penetration testing and customization.</td>
+        <td><a href="https://github.com/snigdha-os">View on GitHub</a></td>
       </tr>
       <tr>
-        <td align="center"><strong>Blackbox Framework</strong></td>
-        <td align="center">A framework for managing security tools effectively.</td>
-        <td align="center">Coming Soon!</td>
+        <td><b>Hacker's Playbook</b></td>
+        <td>A comprehensive guide to ethical hacking and cybersecurity tools.</td>
+        <td><a href="https://github.com/eshanized/playbook">View Repo</a></td>
       </tr>
     </tbody>
   </table>
@@ -104,9 +106,9 @@
 
 
 <div align="center">
-  <h2>✨ Inspiration</h2>
-  <p><em>"Innovation happens when passion meets purpose."</em></p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
+  <h2>⚡ Inspiration</h2>
+  <p>"Hack the Planet. Build a Better World."</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacking GIF">
 </div>
 
 
