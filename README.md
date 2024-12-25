@@ -26,11 +26,11 @@ const aboutMe = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=nord" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=nord" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
 <div align="center">
