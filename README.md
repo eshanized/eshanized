@@ -1,75 +1,81 @@
+<div align="center">
+  <img src="https://readme-headers.vercel.app/api?text=Welcome+to+Eshanized!&bgColor=%23000000&textColor=%23F9A825&fontSize=50" alt="Welcome to Eshanized!">
+</div>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%92%A1-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%92%AA-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Enthusiast-%F0%9F%8C%90-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%8E%93-orange?style=for-the-badge" />
+</div>
+
+
+
 <p align="center">
-  <img src="https://readme-headers.vercel.app/api?text=Welcome+to+Eshanized!&bgColor=%23000000&textColor=%23FFFFFF&fontSize=40" alt="Welcome to Eshanized!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F760&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Eshan+(aka+Eshanized);Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+Innovator;Let's+build+amazing+things+together!">
 </p>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%92%AA-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Innovator-%E2%9C%A8-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Enthusiast-%F0%9F%8C%90-blue?style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F760&center=true&width=500&lines=Hi+there!+I'm+Eshan+(aka+Eshanized);Full-stack+developer+%7C+Open-source+enthusiast;Passionate+about+innovative+tech+%F0%9F%9A%80" alt="Typing SVG">
-</p>
-
----
 
 ## 🌟 **About Me**
-- 🎯 **Mission**: Turning complex problems into elegant solutions.  
-- 🎨 **Passion**: Crafting seamless user experiences.  
-- 🌱 **Learning**: Always expanding my toolkit with new technologies.  
+- 🔭 **Currently working on**: Cutting-edge open-source projects.  
+- 🎯 **Mission**: Simplify complexity with innovation and creativity.  
+- 🌱 **Always learning**: Exploring AI, cloud solutions, and design systems.  
+- ⚡ **Fun fact**: I find inspiration in minimalist designs and tech talks.  
 
----
 
-## 🛠️ **Tech Stack**
 
-### 💡 Programming Languages
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🛠️ **My Tech Stack**
 
-### 🖌️ Frontend Development
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,vue,tailwind,nodejs,django,aws,docker,kubernetes,linux&theme=dark" />
+</div>
 
-### 🔧 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ## 🌍 **Let's Connect**
+
+<div align="center">
+  <a href="https://linkedin.com/in/eshanized">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/eshanized">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://eshanized.dev">
+    <img src="https://img.shields.io/badge/Portfolio-F9A825?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</div>
+
+
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=radical&count_private=true" alt="Eshanized's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=radical" alt="Eshanized's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=radical" alt="Eshanized's Top Languages" />
+</div>
+
+
+
+## 🎨 **Cool Projects**
+
+| 🚀 **Project**       | 📝 **Description**                                           | 🌐 **Live Demo/Repo**            |
+|----------------------|-----------------------------------------------------------|----------------------------------|
+| **Snigdha OS**       | A lightweight, user-centric Linux distribution.           | [View on GitHub](https://github.com/snigdha-os) |
+| **Playbook**         | A comprehensive guide to mastering tech workflows.        | [View Repo](https://github.com/eshanized/playbook) |
+| **Penetration Tools**| A framework for managing security tools effectively.      | Coming Soon!                    |
+
+
 <p align="center">
-  <a href="https://linkedin.com/in/eshanized"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/eshanized"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://eshanized.dev"><img src="https://img.shields.io/badge/Portfolio-%23123.svg?style=for-the-badge&logo=website&logoColor=white"></a>
+✨ _"Innovation happens when passion meets purpose."_ ✨
 </p>
 
----
-
-## 📈 **Stats & Highlights**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-✨ _"Turning ideas into reality, one line of code at a time."_ ✨
+  <img src="https://img.shields.io/github/followers/eshanized?label=Follow%20Me&style=social" alt="GitHub Followers">
 </p>
