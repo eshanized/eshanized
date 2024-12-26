@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A3498db%2C100%3A2980b9&height=200&section=header&text=Eshan+Roy&fontSize=50&fontAlignY=35&desc=Software+Developer&descAlignY=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3AEEFF00%2C100%3Aa82da8&height=200&section=header&text=Eshan+Roy&fontSize=50&fontAlignY=35&desc=Open+Source+Developer+%26+Shell+Programmer&descAlignY=50" alt="header"/>
 </div>
 
-# Eshan Roy | Software Developer
+<h1 align="center"> Eshan Roy | Open Source Developer & Shell Programmer </h1>
 
-"Go go" Said the bird. 'Humankind cannot tolerate too much reality.'
+<p align="center"> "Go go" Said the bird. 'Humankind cannot tolerate too much reality.' </p>
 
 <div align="center">
 
@@ -12,39 +12,54 @@
 
 </div>
 
-## 🛠 Skills
+<h2 align="center"> 🛠 Skills </h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-555555?style=for-the-badge&logo=c++&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-555555?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-555555?style=for-the-badge&logo=tailwind&logoColor=white) ![Django](https://img.shields.io/badge/Django-555555?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=for-the-badge&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-555555?style=for-the-badge&logo=c++&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-555555?style=for-the-badge&logo=tailwind&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/Django-555555?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
-## 💼 Work Experience
+<h2 align="center"> 💼 Work Experience </h2>
 
-### Chief Executive at Tonmoy Infrastructure
-📅 2019-06 - 2023-10
+### Chief Executive Officer at TONMOY INFRASTRUCTURE
+📅 2018-03 - 2022-10
 
-Former
+Worked as the CEO and still working as Development Director with 67% shares.
 
 
 
 ## 📚 Education
 
-### BTECH in Aerospace Engr
-🏛 LPU
-📅 2019-07 - 2023-07
+### Bachelor of Technology(B.TECH) in Aerospace Engineering
+🏛 Lovely Professional University
+📅 2019-06 - 2024-07
 
-Aerspace
+I was interested in Aerodynamics and Thermal Engineering
+
+### Associate Bachelor in Science(Assoc. BSc) in Computer Science(AI & Cyber Security)
+🏛 University of The People
+📅 2022-10 - Present
+
+Interested in Network Security
 
 ## ⭐ Featured Projects
 
-### GitHub Profile Readme Generator ⭐
-https://github.com/eshanized/readme
+### EPortfolio ⭐
+Welcome to the ePortfolio repository! This project serves as a personal portfolio website designed to showcase skills, projects, and experiences in a visually appealing and user-friendly manner.
+
+🔗 [View Project](https://github.com/eshanized/eportfolio)
+
+**Technologies:** Typescript
+
+## 🚀 Projects
+
+### readme 
+Easily create stunning and engaging GitHub profile READMEs with this powerful README Generator! 🚀 Whether you're a beginner or an expert, build eye-catching and professional README for your GitHub profile in just a few clicks. 🎨
 
 🔗 [View Project](https://github.com/eshanized/readme)
 
-**Technologies:** Typescript
+**Technologies:** Typescript, React, Tailwind
 
 ## 📊 GitHub Stats
 
@@ -56,6 +71,6 @@ https://github.com/eshanized/readme
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=nord)
 
-![Profile Views](https://komarev.com/ghpvc/?username=eshanized&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=eshanized&color=#6495ed&style=for-the-badge)
 
 </div>
