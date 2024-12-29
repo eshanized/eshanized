@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=50&fontAlignY=35&desc=&descAlignY=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eshan+Roy&fontSize=50&fontAlignY=35&desc=&descAlignY=50" alt="header"/>
 </div>
 
 <h1 align="center"> Eshan Roy | Open Source Developer & Shell Programmer </h1>
