@@ -71,6 +71,6 @@ Easily create stunning and engaging GitHub profile READMEs with this powerful RE
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=nord)
 
-![Profile Views](https://komarev.com/ghpvc/?username=eshanized&color=#6495ed&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=eshanized&color=6495ed&style=for-the-badge)
 
 </div>
