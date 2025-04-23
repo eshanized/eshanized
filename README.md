@@ -1,41 +1,60 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=ESHAN%20ROY&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=30&desc=SECURITY%20RESEARCHER%20|%20ETHICAL%20HACKER&descAlignY=50&descSize=20&descColor=00bb00&rotate=0" alt="Eshan Roy" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=SECURITY%20SPECIALIST&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Penetration%20Testing%20|%20Exploit%20Development%20|%20Red%20Teaming&descAlignY=60&descSize=20" alt="Header"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Infiltrating+Systems;Breaking+Defenses;Building+Security;Ethical+Hacking;Cyber+Intelligence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=[+Initializing+Security+Protocol+];[+Systems+Analysis+In+Progress+];[+Breaching+Defenses+];[+Securing+Perimeter+];[+Access+Granted+])](https://git.io/typing-svg)
   
 </div>
 
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
+<!-- DIGITAL MATRIX EFFECT -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
+</div>
 
 <!-- ABOUT SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Focus-Cyber_Security-00ff00?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Status-Always_Learning-00ff00?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=000000">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center"> 
   <em>
-    "The quieter you become, the more you can hear." — Ram Dass<br>
-    Finding vulnerabilities others miss. Securing what must be protected.
+    "In the realm of technology, security isn't just a feature - it's a mindset."<br>
+    Specializing in offensive security and digital fortress construction.
   </em>
 </p>
 
+<!-- SOCIAL LINKS WITH ADVANCED STYLING -->
 <div align="center">
-  
-  <a href="https://github.com/eshanized"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=00ff00"></a>
-  <a href="https://dev.to/eshanized"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff00"></a>
-  <a href="https://twitter.com/eshanized"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00"></a>
-  <a href="https://linkedin.com/in/eshanized"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"></a>
-  <a href="mailto:m.eshanized@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00"></a>
-  
+  <a href="https://github.com/eshanized"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=00ff00&labelColor=000000"></a>
+  <a href="https://dev.to/eshanized"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=linux&logoColor=00ff00&labelColor=000000"></a>
+  <a href="https://twitter.com/eshanized"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00&labelColor=000000"></a>
+  <a href="https://linkedin.com/in/eshanized"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000"></a>
+  <a href="mailto:m.eshanized@gmail.com"><img src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=protonmail&logoColor=00ff00&labelColor=000000"></a>
 </div>
 
 <!-- ANIMATED SNAKE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- HACKER SKILLS SECTION -->
