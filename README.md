@@ -1,47 +1,26 @@
 <!-- HEADER SECTION -->
-<div align="center">
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=ESHAN%20ROY&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=30&desc=SECURITY%20RESEARCHER%20|%20ETHICAL%20HACKER&descAlignY=50&descSize=20&descColor=00bb00&rotate=0" alt="Eshan Roy" />
 </div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Infiltrating+Systems;Breaking+Defenses;Building+Security;Ethical+Hacking;Cyber+Intelligence)](https://git.io/typing-svg)
-  
-</div>
-
 <hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- ABOUT SECTION -->
-<div align="center">
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200">
-</div>
-
-<p align="center"> 
-  <em>
-    "The quieter you become, the more you can hear." — Ram Dass<br>
-    Finding vulnerabilities others miss. Securing what must be protected.
-  </em>
-</p>
-
-<div align="center">
-  
+  <p align="center">
+    <em> "The quieter you become, the more you can hear." — Ram Dass<br> Finding vulnerabilities others miss. Securing what must be protected. </em>
+  </p>
   <a href="https://github.com/eshanized"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=00ff00"></a>
   <a href="https://dev.to/eshanized"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff00"></a>
   <a href="https://twitter.com/eshanized"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00"></a>
   <a href="https://linkedin.com/in/eshanized"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"></a>
   <a href="mailto:m.eshanized@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00"></a>
-  
 </div>
-
-<!-- ANIMATED SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- HACKER SKILLS SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/QyJTDrU4YJDri/giphy.gif" width="30"> HACKER'S ARSENAL <img src="https://media.giphy.com/media/QyJTDrU4YJDri/giphy.gif" width="30"></h2>
-
-<div align="center">
+<h2 align="center" style="color: #00ff00;">HACKER'S ARSENAL</h2>
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td width="50%" align="center">
@@ -81,53 +60,11 @@
     </tr>
   </table>
 </div>
-
-<!-- MATRIX DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-<!-- PROFESSIONAL PATH SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"> CAREER PATH <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"></h2>
-
-<div style="background-color: #000000; border-radius: 10px; padding: 20px; margin: 10px 0; border-left: 3px solid #00ff00;">
-  <h3>👨‍💼 Chief Executive Officer | TONMOY INFRASTRUCTURE</h3>
-  <p><code>⏱️ February 2025 - Present | 🌐 Remote</code></p>
-  <ul>
-    <li>Currently serving as Development Director with 67% shares</li>
-    <li>Led company strategy and technical direction</li>
-    <li>Oversaw infrastructure development projects</li>
-    <li>Managed cross-functional teams</li>
-  </ul>
-</div>
-
-<div style="background-color: #000000; border-radius: 10px; padding: 20px; margin: 10px 0; border-left: 3px solid #00ff00;">
-  <h3>🎓 Education</h3>
-  
-  <h4>💻 Associate Bachelor in Computer Science (AI & Cyber Security)</h4>
-  <p><code>🏫 University of The People | ⏱️ October 2022 - Present</code></p>
-  <ul>
-    <li>Focus on Network Security and Artificial Intelligence</li>
-    <li>Key subjects: Cryptography, Machine Learning</li>
-  </ul>
-  
-  <h4>✈️ Bachelor of Technology in Aerospace Engineering</h4>
-  <p><code>🏫 Lovely Professional University | ⏱️ June 2019 - July 2024</code></p>
-  <ul>
-    <li>Specialized in Aerodynamics and Thermal Engineering</li>
-    <li>Relevant coursework: Fluid Mechanics, Thermodynamics</li>
-  </ul>
-</div>
-
-<!-- ANIMATED TERMINAL -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600">
-</div>
+<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- PROJECTS SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> CYBER OPERATIONS <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"></h2>
-
-<div align="center">
+<h2 align="center" style="color: #00ff00;">CYBER OPERATIONS</h2>
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td width="33%" valign="top">
@@ -182,11 +119,11 @@
     </tr>
   </table>
 </div>
+<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- STATS SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> SYSTEM METRICS <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"></h2>
-
-<div align="center">
+<h2 align="center" style="color: #00ff00;">SYSTEM METRICS</h2>
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td width="50%">
@@ -203,17 +140,15 @@
     </tr>
   </table>
 </div>
+<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- CONNECTION SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="30"> SECURE CHANNELS <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="30"></h2>
-
-<div align="center">
+<h2 align="center" style="color: #00ff00;">SECURE CHANNELS</h2>
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <img src="https://media.giphy.com/media/ZYWv9qRQPomHUvxTKW/giphy.gif" width="300">
-  
   <div style="background-color: #000000; border-radius: 10px; padding: 10px; margin: 10px 0; border: 1px solid #00ff00;">
     <code>nc -lvp 443 # AWAITING CONNECTION</code>
   </div>
-  
   <div>
     <a href="https://twitter.com/eshanized"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00"></a>
     <a href="https://linkedin.com/in/eshanized"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"></a>
@@ -221,29 +156,24 @@
     <a href="https://github.com/sponsors/eshanized"><img src="https://img.shields.io/badge/-GitHub_Sponsors-000000?style=for-the-badge&logo=github&logoColor=00ff00"></a>
   </div>
 </div>
+<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
 
 <!-- FOOTER SECTION -->
-<div align="center">
+<div align="center" style="background: linear-gradient(to bottom, #000000, #001100); padding: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=ACCESS_GRANTED&fontSize=30&fontColor=00ff00&animation=fadeIn" alt="Footer">
-  
   <div>
     <img src="https://img.shields.io/badge/Status-Online-00ff00?style=for-the-badge&labelColor=black">
     <img src="https://komarev.com/ghpvc/?username=eshanized&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS">
   </div>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=CONNECTION+ENCRYPTED;TRANSMISSION+SECURE;SESSION+ACTIVE)](https://git.io/typing-svg)
 </div>
 
 <!-- INSTRUCTIONS FOR SNAKE ANIMATION -->
-<!--
-# Create this workflow file in your repository: .github/workflows/snake.yml
+<!-- # Create this workflow file in your repository: .github/workflows/snake.yml
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -261,5 +191,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          force: true
--->
+          force: true -->
