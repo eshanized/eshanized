@@ -1,129 +1,152 @@
-<!-- HEADER SECTION -->
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <h1 style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">WELCOME TO MY HACKER TERMINAL</h1>
-  <h2 style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">Eshan Roy</h2>
-  <p style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">Security Researcher | Ethical Hacker</p>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- ABOUT SECTION -->
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <p style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    <em> "The quieter you become, the more you can hear." — Ram Dass<br> Finding vulnerabilities others miss. Securing what must be protected. </em>
-  </p>
-  <p style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    <a href="https://github.com/eshanized">GitHub</a> | 
-    <a href="https://dev.to/eshanized">Website</a> | 
-    <a href="https://twitter.com/eshanized">Twitter</a> | 
-    <a href="https://linkedin.com/in/eshanized">LinkedIn</a> | 
-    <a href="mailto:m.eshanized@gmail.com">Email</a>
-  </p>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- HACKER SKILLS SECTION -->
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">HACKER'S ARSENAL</h2>
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-🔓 Offensive Security:
-- Penetration Testing
-- Exploit Development
-- Social Engineering
-- Web Application Hacking
-- Reverse Engineering
-
-🛡️ Defensive Security:
-- Network Security
-- Incident Response
-- Malware Analysis
-- Security Hardening
-- Threat Intelligence
-
-🧪 Testing Tools:
-- Metasploit
-- Burp Suite
-- Wireshark
-- Nmap
-- Kali Linux
-
-🔧 Development:
-- Python
-- Bash
-- C++
-- JavaScript
-- PowerShell
-  </pre>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- PROJECTS SECTION -->
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">CYBER OPERATIONS</h2>
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-🌐 Eshanized-is-a.dev
-- Professional portfolio with advanced security features
-- Tech: TypeScript, React, Tailwind CSS
-- Features: Encrypted messaging, dynamic content
-- [Live Demo](https://eshanized.github.io/eportfolio) | [Source Code](https://github.com/eshanized/eportfolio)
-
-📝 README Generator
-- Create tactical GitHub profiles with stealth features
-- Tech: TypeScript, React, Tailwind CSS
-- Features: Template library, live preview, export
-- [Repository](https://github.com/eshanized/readme)
-
-🔒 SecureShell
-- Advanced security toolkit for penetration testing
-- Tech: Bash, Python
-- Features: Network scanning, vulnerability detection
-- [Classified](#)
-  </pre>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- <!-- STATS SECTION -->
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">SYSTEM METRICS</h2>
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=dark&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&hide_border=true&border_radius=10)
-
-🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true)
-
-📈 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=dark&bg_color=000000&text_color=00ff00&title_color=00ff00&hide_border=true&border_radius=10)
-  </pre>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- CONNECTION SECTION -->
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">SECURE CHANNELS</h2>
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-🔗 Connect with me:
-- [Twitter](https://twitter.com/eshanized)
-- [LinkedIn](https://linkedin.com/in/eshanized)
-- [Dev.to](https://dev.to/eshanized)
-- [GitHub Sponsors](https://github.com/sponsors/eshanized)
-
-🖥️ Terminal Command:
-nc -lvp 443 # AWAITING CONNECTION
-  </pre>
-</div>
-<hr style="border: 1px solid #00ff00; background-color: #00ff00; height: 1px">
-
-<!-- FOOTER SECTION -->
-<div align="center" style="background: #000000; padding: 20px; border: 1px solid #00ff00;">
-  <h3 style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">ACCESS_GRANTED</h3>
-  <p style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    Status: Online | Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=eshanized&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=200&section=header&text=Eshan%20Roy&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </div>
 
-<!-- SEO META TAGS -->
-<!-- 
-<meta name="description" content="Eshan Roy - Security Researcher and Ethical Hacker. Explore my projects, skills, and connect with me for collaboration.">
-<meta name="keywords" content="Eshan Roy, Security Researcher, Ethical Hacker, Cybersecurity, Penetration Testing, Vulnerability Assessment, GitHub, Projects">
-<meta name="author" content="Eshan Roy">
--->
+# `> whoami`
+<h3 align="center">Security Researcher | Open Source Developer | Shell Programmer</h3>
+
+<p align="center"> 
+  <em>
+    "Man is a useless passion. It is meaningless that we live and meaningless that we die" - Jean-Paul Sartre<br>
+    Exploiting vulnerabilities in systems; securing the digital frontier through code.
+  </em>
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/eshanized) 
+[![Website](https://img.shields.io/badge/Website-0A0?style=flat-square&logo=globe)](https://dev.to/eshanized) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/eshanized) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/eshanized)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](m.eshanized@gmail.com)
+
+</div>
+
+---
+
+## `> cat skills.txt`
+
+### Arsenal
+<div align="center">
+  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### Exploitation & Web
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+</div>
+
+### Infrastructure & Databases
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+</div>
+
+### Operations & Toolkit
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## `> cat career_trajectory.log`
+
+### `// Chief Executive Officer | TONMOY INFRASTRUCTURE`
+`[+] February 2025 - Present | [*] Remote`  
+`[+] Currently serving as Development Director with 67% shares`  
+`[*] Led company strategy and technical direction`  
+`[*] Oversaw infrastructure development projects`  
+`[*] Managed cross-functional teams`  
+
+### `// Academic Background`
+
+#### `[>] Bachelor of Technology in Aerospace Engineering`
+`[*] Lovely Professional University | [~] June 2019 - July 2024`  
+`[+] Specialized in Aerodynamics and Thermal Engineering`  
+`[+] Relevant coursework: Fluid Mechanics, Thermodynamics`  
+
+#### `[>] Associate Bachelor in Computer Science (AI & Cyber Security)`
+`[*] University of The People | [~] October 2022 - Present`  
+`[+] Focus on Network Security and Artificial Intelligence`  
+`[+] Key subjects: Cryptography, Machine Learning`  
+
+---
+
+## `> ls -la /projects`
+
+### `[+] Eshanized-is-a.dev - Digital Footprint`
+`A sleek, responsive portfolio website to display skills and projects`  
+`[*] Tech Stack: TypeScript, React, Tailwind CSS`  
+`[*] Features: Project gallery, skill visualization, contact form`  
+`[>] Access: [Live Demo](https://eshanized.github.io/eportfolio) | [Source](https://github.com/eshanized/eportfolio)`
+
+### `[+] README Generator - OSINT Tool`
+`Create stunning GitHub profile READMEs with ease`  
+`[*] Tech Stack: TypeScript, React, Tailwind CSS`  
+`[*] Features: Template library, live preview, markdown export`  
+`[>] Access: [Execute](https://github.com/eshanized/readme)`
+
+### `[+] SecureShell - Cybersecurity Toolkit`
+`Collection of security scripts and utilities`  
+`[*] Tech Stack: Bash, Python`  
+`[*] Features: Network scanning, vulnerability detection`  
+
+---
+
+## `> ./display_metrics.sh`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=chartreuse-dark&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## `> nc -lvp 443`
+Listening for connections. Reach out for collaborations or penetration testing insights.
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eshanized)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshanized)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/eshanized)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/eshanized)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Online-0A0?style=for-the-badge">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=eshanized&color=0A0&style=for-the-badge)
+  
+</div>
+
+```
+# EOF
+```
