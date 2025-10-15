@@ -278,7 +278,7 @@ Safety-Critical Systems
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [**SnigdhaOS**](https://gitlab.com/Snigdha-OS) | Rust-first modular operating system | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| [**Snigdha OS**](https://gitlab.com/Snigdha-OS) | Rust-first modular operating system | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | [**Helios**](https://gitlab.com/Snigdha-OS/apps/helios) | Modern system utility suite | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 | [**Healix**](https://gitlab.com/Snigdha-OS/apps/healix) | Real-time system health monitoring | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 | [**Kernel Manager**](https://gitlab.com/Snigdha-OS/apps/kernel_manager) | Rust-powered kernel management UI | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
