@@ -306,6 +306,7 @@ Safety-Critical Systems
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eshanized&theme=algolia&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
