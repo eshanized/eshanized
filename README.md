@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Development+Director+%26+CEO;Rust+%7C+Flutter+%7C+AI+Architect;Infrastructure+%26+Systems+Engineer;Building+Secure+Scalable+Ecosystems;Aerospace+Engineer+Turned+Developer;Open+Source+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Open+Source+Developer+%26+Innovator;Rust+%7C+Python+%7C+Go+%7C+Shell;Infrastructure+%26+Systems+Engineer;Building+Secure+Scalable+Ecosystems;Snigdha+OS+Creator+%F0%9F%90%A7;Linux+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
   
   <br/><br/>
@@ -15,13 +15,12 @@
     <a href="https://github.com/eshanized?tab=followers">
       <img src="https://img.shields.io/github/followers/eshanized?style=for-the-badge&color=00ff00&label=FOLLOWERS&logo=github" alt="Followers">
     </a>
-    <img src="https://img.shields.io/badge/FOCUS-INFRASTRUCTURE-blueviolet?style=for-the-badge" alt="Focus">
+    <img src="https://img.shields.io/badge/FOCUS-OPEN%20SOURCE-blueviolet?style=for-the-badge" alt="Focus">
     <img src="https://img.shields.io/badge/OPEN%20SOURCE-%E2%9D%A4-red?style=for-the-badge" alt="Open Source">
   </p>
 </div>
 
 <br/>
-
 
 <div align="center">
 
@@ -29,7 +28,7 @@
 
 **"Every system should operate like a flight control system — rigorously tested, fault-tolerant, and mission-critical by design."**
 
-*Building secure, autonomous, and intelligent systems at the intersection of aerospace engineering, systems programming, and AI.*
+*Building secure, autonomous, and intelligent systems at the intersection of systems programming and AI.*
 
 </div>
 
@@ -40,84 +39,59 @@
 struct Developer {
     name: &'static str,
     location: &'static str,
-    role: &'static str,
-    company: &'static str,
-    education: Education,
-    passions: Vec<&'static str>,
+    roles: Vec<&'static str>,
+    organizations: Vec<&'static str>,
+    skills: Skills,
     currently_learning: Vec<&'static str>,
+    currently_hacking_on: &'static str,
 }
 
-struct Education {
-    current: &'static str,
-    previous: &'static str,
+struct Skills {
+    languages: Vec<&'static str>,
+    tools: Vec<&'static str>,
 }
 
 impl Developer {
     fn eshan_roy() -> Self {
         Self {
             name: "Eshan Roy",
-            location: "Bangladesh 🇧🇩",
-            role: "Development Director & CEO",
-            company: "Tonmoy Infrastructure (67% Shareholder)",
-            education: Education {
-                current: "Computer Science (AI & Cyber Security) - University of The People",
-                previous: "Aerospace Engineering - Lovely Professional University",
+            location: "India ��",
+            roles: vec![
+                "Open Source Developer",
+                "Systems Programmer",
+                "Linux Enthusiast",
+            ],
+            organizations: vec![
+                "Snigdha OS",
+            ],
+            skills: Skills {
+                languages: vec!["Python", "Rust", "Go", "Shell", "TypeScript"],
+                tools: vec!["Linux", "Docker", "Git", "CI/CD"],
             },
-            passions: vec![
-                "Rust Systems Programming",
-                "Infrastructure Architecture",
-                "AI Agent Frameworks",
-                "Open Source Innovation",
-                "Aerospace Engineering",
-            ],
             currently_learning: vec![
-                "Advanced Rust Internals",
-                "LangChain & AI Agents",
-                "Operating System Development",
-                "Hardware Security",
+                "Python",
+                "Go",
+                "Rust",
             ],
+            currently_hacking_on: "Snigdha OS",
         }
     }
     
     fn fun_fact(&self) -> &str {
-        "I design systems that fly—both in the sky and in the cloud ☁️✈️"
+        "Be silent when it is time to hear! 🎧"
     }
 }
 ```
 
+## 🏆 GitHub Achievements
 
+<div align="center">
 
-## 💼 Professional Impact
+![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pair Extraordinaire x2](https://img.shields.io/badge/Pair%20Extraordinaire-x2-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white)
+![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark-x2-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 TONMOY INFRASTRUCTURE
-**Chief Executive Officer**
-
-- 📈 **30%** revenue growth in 2024
-- 🎯 **20+** major projects delivered
-- 👥 Leading **30+** professionals
-- 🌍 Serving clients across **5+** countries
-- 💡 **15+** infrastructure projects deployed
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Key Metrics
-
-```ascii
-Projects Delivered:      ████████████████  20+
-Team Growth:             ████████████████  30+
-Client Satisfaction:     ████████████████  98%
-Innovation Score:        ████████████████  A+
-Open Source Contrib:     ████████████████  30+
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 
 
@@ -130,159 +104,134 @@ Open Source Contrib:     ████████████████  30+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🚀 Web & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🤖 AI & ML
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🔧 DevOps & Tools
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 
 
-## 💡 Core Competencies
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🏗️ Infrastructure
-Cloud Architecture<br/>
-DevOps & CI/CD<br/>
-Infrastructure-as-Code<br/>
-Kubernetes & Docker<br/>
-High Availability Systems
-
-</td>
-<td align="center" width="25%">
-
-### 🔐 Security
-Penetration Testing<br/>
-Zero Trust Design<br/>
-Threat Modeling<br/>
-SIEM Integration<br/>
-Hardware Security
-
-</td>
-<td align="center" width="25%">
-
-### 🦀 Systems Programming
-Rust Development<br/>
-OS Development<br/>
-Kernel Programming<br/>
-Memory Safety<br/>
-Performance Optimization
-
-</td>
-<td align="center" width="25%">
-
-### ✈️ Aerospace
-Systems Engineering<br/>
-Avionics & Flight Control<br/>
-Aerodynamics<br/>
-Structural Design<br/>
-Safety-Critical Systems
-
-</td>
-</tr>
-</table>
-
-
-
-## 🎯 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>🦀 Rust Ecosystem (Click to expand)</b></summary>
+<summary><b>🦀 Rust Ecosystem (Crates.io)</b></summary>
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**FastAlloc**](https://pypi.org/project/fastalloc/) | Cross-language memory allocator (Rust + Go + Python) | ![PyPI](https://img.shields.io/pypi/dm/fastalloc?style=flat-square) |
-| [**ShockGuard**](https://crates.io/crates/shockguard) | Hardware Fault Exploit Mitigator for cache, timing, and voltage anomalies | ![Crates.io](https://img.shields.io/crates/d/shockguard?style=flat-square) |
-| [**DepInsight**](https://crates.io/crates/dep-insight) | Deep dependency visualization and Rust graph intelligence tool | ![Crates.io](https://img.shields.io/crates/d/dep-insight?style=flat-square) |
-| [**SecBox**](https://crates.io/crates/secbox) | Secure in-memory encryption, zeroization, and key management library | ![Crates.io](https://img.shields.io/crates/d/secbox?style=flat-square) |
-| **HotReload** | Live Rust function reloader for embedded and server applications | 🚧 WIP |
+| Project | Description | Downloads |
+|---------|-------------|-----------|
+| [**eshanized-polaris**](https://crates.io/crates/eshanized-polaris) | Rust-native distributed compute and orchestration framework for scaling concurrent workloads | ![Crates.io](https://img.shields.io/crates/d/eshanized-polaris?style=flat-square) |
+| [**cynapse**](https://crates.io/crates/cynapse) | Real-time, memory-resident binary integrity verification for Rust applications | ![Crates.io](https://img.shields.io/crates/d/cynapse?style=flat-square) |
+| [**dep-insight**](https://crates.io/crates/dep-insight) | Dependency analysis, auditing, and visualization tool for Rust projects | ![Crates.io](https://img.shields.io/crates/d/dep-insight?style=flat-square) |
+| [**dynpatch**](https://crates.io/crates/dynpatch) | Safe live code reloading for Rust - hot patching functions, services, and configs at runtime | ![Crates.io](https://img.shields.io/crates/d/dynpatch?style=flat-square) |
+| [**errcraft**](https://crates.io/crates/errcraft) | Structured and colorful error handling for Rust | ![Crates.io](https://img.shields.io/crates/d/errcraft?style=flat-square) |
 
 </details>
 
 <details open>
-<summary><b>🧰 Tonmoy Infrastructure & Vision Developer Tools</b></summary>
+<summary><b>🐍 Python Ecosystem (PyPI)</b></summary>
+<br/>
+
+| Project | Description | Downloads |
+|---------|-------------|-----------|
+| [**neurobus**](https://pypi.org/project/neurobus/) | The World's First Neuro-Semantic Event Bus for Cognitive AI Systems | ![PyPI](https://img.shields.io/pypi/dm/neurobus?style=flat-square) |
+| [**eclipsera**](https://pypi.org/project/eclipsera/) | Comprehensive ML framework with 68 algorithms spanning classical ML, clustering, AutoML, and explainability | ![PyPI](https://img.shields.io/pypi/dm/eclipsera?style=flat-square) |
+| [**vedart**](https://pypi.org/project/vedart/) | Parallel runtime unifying Python's concurrency ecosystem | ![PyPI](https://img.shields.io/pypi/dm/vedart?style=flat-square) |
+| [**cynapse**](https://pypi.org/project/cynapse/) | Real-time memory integrity monitor for Python | ![PyPI](https://img.shields.io/pypi/dm/cynapse?style=flat-square) |
+| [**fastalloc**](https://pypi.org/project/fastalloc/) | High-performance Python memory pool library for pre-allocated object pooling | ![PyPI](https://img.shields.io/pypi/dm/fastalloc?style=flat-square) |
+
+</details>
+
+<details open>
+<summary><b>🐧 Snigdha OS - Arch Linux Distribution</b></summary>
+<br/>
+
+<div align="center">
+
+**A powerful Arch Linux-based distro tailored for penetration testing 🛡️ and ethical hacking 🕵️‍♂️**
+
+[![Snigdha OS](https://img.shields.io/badge/Snigdha_OS-Main_Project-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://gitlab.com/snigdhaos)
+
+</div>
+
+#### 🖥️ Core Applications
+
+| Project | Description |
+|---------|-------------|
+| [**SPM - Package Manager**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-package-manager) | Snigdha OS Package Manager for streamlined package handling |
+| [**Kernel Installer**](https://gitlab.com/SnigdhaOS/applications/kernel-installer) | Kernel management and installation utility |
+| [**Kernel Manager**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-kernel-manager) | Advanced kernel management UI |
+| [**System Maintenance**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-system-maintenance) | System maintenance and optimization tools |
+| [**Cleaner**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-cleaner) | System cleanup and optimization utility |
+| [**Updater**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-updater) | System update manager with GUI |
+| [**Updater TUI**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-updater-tui) | Terminal-based system updater |
+
+#### 🎨 User Experience
+
+| Project | Description |
+|---------|-------------|
+| [**Welcome Center**](https://gitlab.com/SnigdhaOS/applications/welcome-center) | First-run welcome and setup wizard |
+| [**Snigdha OS Tour**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-tour) | Interactive system tour for new users |
+| [**Assistant**](https://gitlab.com/SnigdhaOS/applications/assistant) | AI-powered system assistant |
+| [**Raptor**](https://gitlab.com/SnigdhaOS/applications/raptor) | System configuration and management tool |
+| [**Wallpaper Engine**](https://gitlab.com/SnigdhaOS/applications/snigdhaos-wallpaper-engine) | Dynamic wallpaper management system |
+
+#### 🖌️ Desktop Environments & Themes
+
+| Project | Description |
+|---------|-------------|
+| [**i3 Config**](https://gitlab.com/SnigdhaOS/desktop-settings/snigdhaos-i3-config) | i3wm configuration and rice |
+| [**Hyprland Config**](https://gitlab.com/SnigdhaOS/desktop-settings/snigdhaos-hyprland-config) | Hyprland compositor configuration |
+| [**GNOME Config**](https://gitlab.com/SnigdhaOS/desktop-settings/snigdhaos-gnome-config) | GNOME desktop configuration |
+| [**Plasma Config**](https://gitlab.com/SnigdhaOS/desktop-settings/snigdhaos-plasma-config) | KDE Plasma configuration |
+| [**Aurora Theme GTK**](https://gitlab.com/SnigdhaOS/themes) | Custom GTK theme for Snigdha OS |
+| [**SDDM Sugar Candy**](https://gitlab.com/SnigdhaOS/assets/snigdhaos-sddm-sugar-candy) | Custom SDDM login theme |
+
+#### 🔧 System Infrastructure
+
+| Project | Description |
+|---------|-------------|
+| [**NERVE**](https://gitlab.com/SnigdhaOS/nerve) | TUI-based system installer |
+| [**Calamares Aurora**](https://gitlab.com/SnigdhaOS/calamares) | Graphical system installer |
+| [**Archiso GNOME**](https://gitlab.com/SnigdhaOS/archiso/snigdhaos-gnome-archiso) | GNOME edition ISO builder |
+| [**Archiso i3**](https://gitlab.com/SnigdhaOS/archiso/snigdhaos-i3-archiso) | i3 edition ISO builder |
+| [**Package Browser**](https://gitlab.com/SnigdhaOS/package-browser) | Web-based package search and browser |
+
+#### 🌐 Web & Documentation
+
+| Project | Description |
+|---------|-------------|
+| [**Snigdha OS Web**](https://gitlab.com/SnigdhaOS/webs) | Official website source |
+| [**Documentation**](https://gitlab.com/SnigdhaOS/webs/documentation) | User and developer documentation |
+| [**Tools DB**](https://gitlab.com/SnigdhaOS/webs/Tools-DB) | Security tools database |
+
+</details>
+
+<details open>
+<summary><b>🌐 Web & Tools</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**GoInspect**](https://gitlab.com/TIVisionOSS/golang/ginspect) | Codebase intelligence CLI for Go project mapping | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**FastAlloc-Go**](https://pkg.go.dev/gitlab.com/TIVisionOSS/golang/fastalloc-go) | Go implementation of the FastAlloc system | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**FastAlloc-Py**](https://pypi.org/project/fastalloc/) | Python package for high-speed memory operations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Updrift**](https://github.com/TIVisionOSS/updrift) | Open-source uptime monitoring deployable via GitHub Pages | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| [**BugHunt**](https://github.com/TIVisionOSS/bughunt) | AI-driven bug triage & classification platform | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Agent Frameworks</b></summary>
-<br/>
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**M31**](https://github.com/TIVisionOSS/m31-mini) | Autonomous AI developer agent (like Cline/Cursor) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) |
-| [**Autonomous Agent Framework**](https://github.com/TIVisionOSS/autonomous-agent-framework) | Modular reasoning and execution framework | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**CodeNavic**](https://github.com/TIVisionOSS/codenavic) | AR-powered virtual mechanic and navigation system | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-
-</details>
-
-<details open>
-<summary><b>🏍️ Motorcycle Safety Ecosystem</b></summary>
-<br/>
-
-| Project | Description | Features |
-|---------|-------------|----------|
-| [**RiderShield**](https://github.com/TonmoyInfrastructure/ridershield) | AI + AR-powered motorcycle safety ecosystem | Voice SOS, Offline Mode, Wearable Sync |
-| [**RiderGuard**](https://github.com/TonmoyInfrastructure/riderguard) | Advanced safety app with crash detection | Hazard Alerts, Emergency Response |
-| [**NavicX**](https://github.com/TonmoyInfrastructure/navicx) | Full-stack AR + telemetry safety management | AR Navigation, Telemetry Dashboard |
-
-</details>
-
-<details open>
-<summary><b>🖥️ Snigdha OS Projects</b></summary>
-<br/>
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**Snigdha OS**](https://gitlab.com/Snigdha-OS) | Rust-first modular operating system | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| [**Helios**](https://gitlab.com/Snigdha-OS/apps/helios) | Modern system utility suite | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| [**Healix**](https://gitlab.com/Snigdha-OS/apps/healix) | Real-time system health monitoring | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| [**Kernel Manager**](https://gitlab.com/Snigdha-OS/apps/kernel_manager) | Rust-powered kernel management UI | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| [**OnePkg**](https://gitlab.com/Snigdha-OS/apps/onepkg) | Universal package management layer | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+|---------|-------------|------------|
+| [**eshanized.github.io**](https://github.com/eshanized/eshanized.github.io) | Personal portfolio showcasing web development projects and experiences | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| [**NeuroEdit**](https://github.com/eshanized/NeuroEdit) | Next-gen, AI-powered code editor with multi-line autocomplete and natural language code generation | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [**i3wm**](https://github.com/eshanized/i3wm) | Custom i3wm configuration and dotfiles | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
 </details>
 
@@ -295,7 +244,7 @@ Safety-Critical Systems
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=eshanized&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="Top Contributed Repo"/>
 </div>
 
@@ -310,11 +259,11 @@ Safety-Critical Systems
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🐧 [Why I Developed Snigdha OS?](https://dev.to/eshanized/why-i-developed-snigdha-os-3b2o)
 - 🚀 [Introducing Preadme: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
-- 🐍 [9 Must-Know Python-Pandas Operations for Working with Data](https://dev.to/eshanized/9-must-know-python-pandas-operations-for-working-with-data-1h5o)
-- 🐍 [Mastering Python Virtual Environments: A Complete Guide](https://dev.to/eshanized/mastering-python-virtual-environments-a-complete-guide-578d)
-- ⚙️ [Start Shell Programming: A Beginner's Guide [Part-I]](https://dev.to/eshanized/start-shell-programming-a-beginners-guide-part-i-20oo)
-- 🌟 [Introducing My Open-Source Resume: A Step Toward Transparency](https://dev.to/eshanized/introducing-my-open-source-resume-a-step-toward-transparency-and-contribution-2o7o)
+- � [Introducing Snigdha OS: A Fresh Take on Open-Source Operating Systems](https://dev.to/eshanized/introducing-snigdha-os-a-fresh-take-on-open-source-operating-systems-40dk)
+- 🤖 [I Built an Automated SLM Fine-Tuning Engine with Python and Unsloth](https://dev.to/eshanized/i-built-an-automated-slm-fine-tuning-engine-with-python-and-unsloth-257j)
+- 🦀 [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read More Articles on Dev.to](https://dev.to/eshanized)**
@@ -323,32 +272,35 @@ Safety-Critical Systems
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshanized)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eshanized)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eshanized)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.eshanized@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eshanized.dev)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/eshanized)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eshanized.is--a.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eshanized.is-a.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-eshanized-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshanized)
+[![GitLab](https://img.shields.io/badge/GitLab-eshanized-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/eshanized)
+[![Dev.to](https://img.shields.io/badge/Dev.to-eshanized-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eshanized)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@eshanized-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eshanized)
+[![Facebook](https://img.shields.io/badge/Facebook-eshanized-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/eshanized)
+[![Instagram](https://img.shields.io/badge/Instagram-eshanized-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eshanized)
+[![YouTube](https://img.shields.io/badge/YouTube-@eshanized-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eshanized)
 
 <br/>
 
-### 💼 Open For
+<!-- ### 💼 Open For
 
-🤝 **Collaborations** • 💡 **Consulting** • 🎤 **Speaking Engagements** • 📚 **Mentoring** • 🚀 **Open Source Projects**
+🤝 **Collaborations** • 💡 **Open Source Projects** • 🎤 **Speaking Engagements** • 📚 **Mentoring** • � **Linux Development**
 
-</div>
+</div> -->
 
 <div align="center">
 
 ### 💭 Philosophy
 
-*"Code should be safe, predictable, and self-healing — much like the aircraft systems that inspire me."*
+*"Be silent when it is time to hear!"*
 
-**Building the infrastructure of tomorrow, today. 🚀**
+<!-- **Building the infrastructure of tomorrow, today. 🚀**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Dev Quote"/>
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
