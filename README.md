@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Open+Source+Developer+%26+Innovator;Rust+%7C+Python+%7C+Go+%7C+Shell;Infrastructure+%26+Systems+Engineer;Building+Secure+Scalable+Ecosystems;Snigdha+OS+Creator+%F0%9F%90%A7;Linux+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Open+Source+Developer+%26+Innovator;Rust+%7C+Python+%7C+Go+%7C+Shell;Building+Autonomous+AI+Agents+%F0%9F%A4%96;Snigdha+OS+%F0%9F%90%A7+%26+M31A+Creator;Infrastructure+%26+Systems+Engineer;Linux+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
   
   <br/><br/>
@@ -32,7 +32,6 @@
 
 </div>
 
-
 ## 👨‍💻 About Me
 
 ```rust
@@ -55,14 +54,17 @@ impl Developer {
     fn eshan_roy() -> Self {
         Self {
             name: "Eshan Roy",
-            location: "India ��",
+            location: "India 🇮🇳",
             roles: vec![
                 "Open Source Developer",
                 "Systems Programmer",
+                "AI Agent Builder",
                 "Linux Enthusiast",
             ],
             organizations: vec![
                 "Snigdha OS",
+                "Tonmoy Infrastructure",
+                "TIVerse",
             ],
             skills: Skills {
                 languages: vec!["Python", "Rust", "Go", "Shell", "TypeScript"],
@@ -83,6 +85,17 @@ impl Developer {
 }
 ```
 
+## 🏢 Organizations & Ecosystem
+
+Most of the work below lives under a small constellation of orgs rather than one personal account:
+
+| Org | Focus | Links |
+|---|---|---|
+| 🐧 **Snigdha OS** | The Arch Linux distribution and everything around it | [GitLab](https://gitlab.com/snigdhaos) · [GitHub](https://github.com/Snigdha-OS) · [Dev.to](https://dev.to/snigdhaos) |
+| 🌌 **TIVerse** | AI/ML tooling & dev-infrastructure crates — `eclipsera`, `multigit`, `dep-insight` | [GitHub](https://github.com/TIVerse) |
+| 🔒 **Vision OSS** *(TIVisionOSS)* | Security-focused Rust crates — `errcraft` and friends | [GitLab](https://gitlab.com/TIVisionOSS) |
+| 🏗️ **Tonmoy Infrastructure** | Parent organization backing the security & systems crates | — |
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -92,8 +105,6 @@ impl Developer {
 ![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark-x2-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-
 
 ## 🛠️ Technology Arsenal
 
@@ -126,9 +137,62 @@ impl Developer {
 
 </div>
 
+## 🗂️ Featured Projects
 
+From a full Linux distribution to a growing suite of AI agent tooling — here's what's actually shipped, with real package/download stats pulled live via badges.
 
-##  Featured Projects
+<details open>
+<summary><b>🤖 AI & Autonomous Systems</b></summary>
+<br/>
+
+<div align="center">
+
+**⚡ M31A — Terminal-Native Autonomous Coding Agent**
+
+[![M31A](https://img.shields.io/badge/M31A-v1.0.0-00D9FF?style=for-the-badge&logo=go&logoColor=white)](https://github.com/eshanized/M31A)
+![GitHub stars](https://img.shields.io/github/stars/eshanized/M31A?style=flat-square)
+![Telemetry](https://img.shields.io/badge/telemetry-zero-brightgreen?style=flat-square)
+![Binary](https://img.shields.io/badge/binary-static%20~15--20MB-blue?style=flat-square)
+
+</div>
+
+The newest and most ambitious project — a terminal-based AI coding agent written in **Go** that owns the entire workflow instead of just suggesting code. Every run walks a six-phase pipeline and ends in a verified git commit:
+
+`Initialize → Discuss → Plan → Execute → Verify → Ship`
+
+| Capability | Detail |
+|---|---|
+| 🧠 Multi-LLM routing | OpenRouter + Zen providers with parallel health-check fallback and cost-aware **model arbitrage** |
+| 🛠️ Sandboxed toolset | 5 tools (Bash, FileRead, FileWrite, Glob, Grep) behind permission gating, with SSRF & path-traversal guards |
+| 📒 Cross-session ledger | Markdown-based learning record — tracks which model performs best per language/framework over time |
+| 💭 AutoDream | Automatic context-window consolidation at 60% usage; system prompts are never compressed |
+| ↩️ Rollback chain | git-bisect-backed soft/hard/safe resets with automatic backup branches |
+| 🖥️ TUI | 29 screens built with Bubble Tea (Elm architecture) — fuzzy model picker, live streaming output |
+| 🔐 Key storage | OS-native keychain (D-Bus Secret Service · macOS Keychain · Windows Credential Manager) |
+
+```bash
+# macOS (Homebrew)
+brew install eshanized/tap/m31a
+
+# Linux / macOS (curl)
+curl -fsSL https://raw.githubusercontent.com/eshanized/M31A/main/install.sh | bash
+```
+
+**[Repository](https://github.com/eshanized/M31A)** · **[Docs](https://github.com/eshanized/M31A/tree/master/docs)**
+
+</details>
+
+<br/>
+
+Beyond M31A, the AI work spans event-driven infrastructure, model fine-tuning, and editor tooling:
+
+| Project | Description | Stats |
+|---|---|---|
+| [**neurobus**](https://pypi.org/project/neurobus/) | *"Don't send events. Send understanding."* A neuro-semantic event bus for cognitive AI systems — transformer-based semantic routing, 4-scope context engine, time-travel event replay, vector memory via Qdrant/LanceDB, and automatic LLM reasoning hooks | ![PyPI](https://img.shields.io/pypi/dm/neurobus?style=flat-square) ![Tests](https://img.shields.io/badge/tests-173%20passing-brightgreen?style=flat-square) |
+| [**slmgen**](https://github.com/eshanized/slmgen) | Automated fine-tuning engine for Small Language Models (Llama 3.2, Phi-4) built on Python + Unsloth, with a [live demo](https://slmgen.vercel.app) | ![GitHub stars](https://img.shields.io/github/stars/eshanized/slmgen?style=flat-square) |
+| [**NeuroEdit**](https://github.com/eshanized/NeuroEdit) | AI-powered code editor — multi-line autocomplete, natural-language code generation, AI-assisted refactoring, semantic codebase search, privacy-first by design | ![GitHub stars](https://img.shields.io/github/stars/eshanized/NeuroEdit?style=flat-square) |
+
+</details>
 
 <details open>
 <summary><b>🦀 Rust Ecosystem (Crates.io)</b></summary>
@@ -136,11 +200,15 @@ impl Developer {
 
 | Project | Description | Downloads |
 |---------|-------------|-----------|
-| [**eshanized-polaris**](https://crates.io/crates/eshanized-polaris) | Rust-native distributed compute and orchestration framework for scaling concurrent workloads | ![Crates.io](https://img.shields.io/crates/d/eshanized-polaris?style=flat-square) |
-| [**cynapse**](https://crates.io/crates/cynapse) | Real-time, memory-resident binary integrity verification for Rust applications | ![Crates.io](https://img.shields.io/crates/d/cynapse?style=flat-square) |
-| [**dep-insight**](https://crates.io/crates/dep-insight) | Dependency analysis, auditing, and visualization tool for Rust projects | ![Crates.io](https://img.shields.io/crates/d/dep-insight?style=flat-square) |
-| [**dynpatch**](https://crates.io/crates/dynpatch) | Safe live code reloading for Rust - hot patching functions, services, and configs at runtime | ![Crates.io](https://img.shields.io/crates/d/dynpatch?style=flat-square) |
+| [**eshanized-polaris**](https://crates.io/crates/eshanized-polaris) | Rust-native distributed compute & orchestration framework — pluggable schedulers (RoundRobin/LoadAware), automatic retries with exponential backoff, mTLS by default | ![Crates.io](https://img.shields.io/crates/d/eshanized-polaris?style=flat-square) |
+| [**eshanized-polaris-cli**](https://crates.io/crates/eshanized-polaris-cli) | Official command-line interface for the Polaris distributed compute framework | ![Crates.io](https://img.shields.io/crates/d/eshanized-polaris-cli?style=flat-square) |
+| [**cynapse**](https://crates.io/crates/cynapse) | Real-time, memory-resident binary integrity verification — Merkle-tree checksums over executable memory segments, <3% CPU overhead, built for anti-tamper & zero-trust runtime monitoring | ![Crates.io](https://img.shields.io/crates/d/cynapse?style=flat-square) |
+| [**dep-insight**](https://github.com/TIVerse/dep-insight) | Dependency analysis, auditing & visualization for Rust — duplicate-version detection, license/RustSec auditing, CLI + JSON + HTML dashboard output | ![Crates.io](https://img.shields.io/crates/d/dep-insight?style=flat-square) |
+| [**dynpatch**](https://crates.io/crates/dynpatch) | Safe live code reloading for Rust — hot-patch functions, services, and configs at runtime with no restart | ![Crates.io](https://img.shields.io/crates/d/dynpatch?style=flat-square) |
+| [**dynpatch-core**](https://crates.io/crates/dynpatch-core) | Runtime engine behind dynpatch — dynamic library loading, ABI validation, and transactional patching | ![Crates.io](https://img.shields.io/crates/d/dynpatch-core?style=flat-square) |
+| [**dynpatch-interface**](https://crates.io/crates/dynpatch-interface) | Shared interface types & traits for the dynpatch hot-patching system | ![Crates.io](https://img.shields.io/crates/d/dynpatch-interface?style=flat-square) |
 | [**errcraft**](https://crates.io/crates/errcraft) | Structured and colorful error handling for Rust | ![Crates.io](https://img.shields.io/crates/d/errcraft?style=flat-square) |
+| [**multigit**](https://crates.io/crates/multigit) | Cross-platform, multi-remote Git sync — push/pull/sync to GitHub, GitLab, Bitbucket, Codeberg & Gitea at once, with daemon mode and OS-keyring auth | ![GitHub stars](https://img.shields.io/github/stars/TIVerse/multigit?style=flat-square) |
 
 </details>
 
@@ -150,11 +218,10 @@ impl Developer {
 
 | Project | Description | Downloads |
 |---------|-------------|-----------|
-| [**neurobus**](https://pypi.org/project/neurobus/) | The World's First Neuro-Semantic Event Bus for Cognitive AI Systems | ![PyPI](https://img.shields.io/pypi/dm/neurobus?style=flat-square) |
-| [**eclipsera**](https://pypi.org/project/eclipsera/) | Comprehensive ML framework with 68 algorithms spanning classical ML, clustering, AutoML, and explainability | ![PyPI](https://img.shields.io/pypi/dm/eclipsera?style=flat-square) |
+| [**eclipsera**](https://pypi.org/project/eclipsera/) | ML framework built from scratch — 68+ algorithms spanning classical ML, clustering, AutoML & explainability, 100% scikit-learn-API compatible, 618 passing tests. Uses `fastalloc` object pooling under the hood for a 5–15% speed boost | ![PyPI](https://img.shields.io/pypi/dm/eclipsera?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TIVerse/eclipsera?style=flat-square) |
 | [**vedart**](https://pypi.org/project/vedart/) | Parallel runtime unifying Python's concurrency ecosystem | ![PyPI](https://img.shields.io/pypi/dm/vedart?style=flat-square) |
-| [**cynapse**](https://pypi.org/project/cynapse/) | Real-time memory integrity monitor for Python | ![PyPI](https://img.shields.io/pypi/dm/cynapse?style=flat-square) |
-| [**fastalloc**](https://pypi.org/project/fastalloc/) | High-performance Python memory pool library for pre-allocated object pooling | ![PyPI](https://img.shields.io/pypi/dm/fastalloc?style=flat-square) |
+| [**cynapse**](https://pypi.org/project/cynapse/) | Real-time memory integrity monitor for Python (companion to the Rust crate) | ![PyPI](https://img.shields.io/pypi/dm/cynapse?style=flat-square) |
+| [**fastalloc**](https://pypi.org/project/fastalloc/) | High-performance Python memory pool library for pre-allocated object pooling — the same engine powering `eclipsera`'s perf mode | ![PyPI](https://img.shields.io/pypi/dm/fastalloc?style=flat-square) |
 
 </details>
 
@@ -164,11 +231,14 @@ impl Developer {
 
 <div align="center">
 
-**A powerful Arch Linux-based distro tailored for penetration testing 🛡️ and ethical hacking 🕵️‍♂️**
+**A lightweight, Arch Linux-based distro built on the Linux Zen Kernel, tailored for penetration testing 🛡️ and ethical hacking 🕵️‍♂️**
 
 [![Snigdha OS](https://img.shields.io/badge/Snigdha_OS-Main_Project-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://gitlab.com/snigdhaos)
+[![Also on GitHub](https://img.shields.io/badge/Mirror-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snigdha-OS)
 
 </div>
+
+Built for minimalism and user-centric design, the ecosystem ships a dedicated penetration-testing edition alongside general use, and includes **Blackbox** — a custom framework for managing security tooling. Backed by Tonmoy Infrastructure.
 
 #### 🖥️ Core Applications
 
@@ -218,7 +288,7 @@ impl Developer {
 | Project | Description |
 |---------|-------------|
 | [**Snigdha OS Web**](https://gitlab.com/SnigdhaOS/webs) | Official website source |
-| [**Documentation**](https://gitlab.com/SnigdhaOS/webs/documentation) | User and developer documentation |
+| [**Documentation**](https://gitlab.com/SnigdhaOS/webs/documentation) | User and developer documentation (Docusaurus, multi-language) |
 | [**Tools DB**](https://gitlab.com/SnigdhaOS/webs/Tools-DB) | Security tools database |
 
 </details>
@@ -229,12 +299,12 @@ impl Developer {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**eshanized.github.io**](https://github.com/eshanized/eshanized.github.io) | Personal portfolio showcasing web development projects and experiences | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| [**NeuroEdit**](https://github.com/eshanized/NeuroEdit) | Next-gen, AI-powered code editor with multi-line autocomplete and natural language code generation | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [**eshanized.github.io**](https://github.com/eshanized/eshanized.github.io) | Personal portfolio site — Next.js/React, OneUI-inspired design | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| [**eportfolio**](https://github.com/eshanized/eportfolio) | A second portfolio build exploring a different visual direction | ![GitHub stars](https://img.shields.io/github/stars/eshanized/eportfolio?style=flat-square) |
+| [**resume**](https://github.com/eshanized/resume) | Open-source, JSON-driven personal resume — fork it, edit `resume.json`, deploy free on GitHub Pages | ![GitHub stars](https://img.shields.io/github/stars/eshanized/resume?style=flat-square) |
 | [**i3wm**](https://github.com/eshanized/i3wm) | Custom i3wm configuration and dotfiles | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
 </details>
-
 
 ## 📊 GitHub Analytics
 
@@ -259,11 +329,11 @@ impl Developer {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🐧 [Why I Developed Snigdha OS?](https://dev.to/eshanized/why-i-developed-snigdha-os-3b2o)
-- 🚀 [Introducing Preadme: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
-- � [Introducing Snigdha OS: A Fresh Take on Open-Source Operating Systems](https://dev.to/eshanized/introducing-snigdha-os-a-fresh-take-on-open-source-operating-systems-40dk)
-- 🤖 [I Built an Automated SLM Fine-Tuning Engine with Python and Unsloth](https://dev.to/eshanized/i-built-an-automated-slm-fine-tuning-engine-with-python-and-unsloth-257j)
-- 🦀 [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
+- 🤖 [Building an AI Agent That Learns from Its Mistakes: The Ledger System](https://dev.to/eshanized/building-an-ai-agent-that-learns-from-its-mistakes-the-ledger-system-4op9)
+- ⚡ [Building M31A: A Terminal-Native AI Coding Agent That Ships, Not Just Suggests](https://dev.to/eshanized/building-m31a-a-terminal-native-ai-coding-agent-that-ships-not-just-suggests-2p0m)
+- 🧪 [I Built an Automated SLM Fine-Tuning Engine with Python and Unsloth](https://dev.to/eshanized/i-built-an-automated-slm-fine-tuning-engine-with-python-and-unsloth-257j)
+- 🔀 [MultiGit: One Repository, Infinite Destinations](https://dev.to/eshanized/multigit-one-repository-infinite-destinations-2adj)
+- 🦀 [Unlock Clearer Rust Dependency Insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read More Articles on Dev.to](https://dev.to/eshanized)**
@@ -284,11 +354,11 @@ impl Developer {
 
 <br/>
 
-<!-- ### 💼 Open For
+### 💼 Open For
 
-🤝 **Collaborations** • 💡 **Open Source Projects** • 🎤 **Speaking Engagements** • 📚 **Mentoring** • � **Linux Development**
+🤝 **Collaborations**  ·  💡 **Open Source Projects**  ·  🎤 **Speaking Engagements**  ·  📚 **Mentoring**  ·  🐧 **Linux & Systems Development**
 
-</div> -->
+</div>
 
 <div align="center">
 
@@ -296,11 +366,9 @@ impl Developer {
 
 *"Be silent when it is time to hear!"*
 
-<!-- **Building the infrastructure of tomorrow, today. 🚀**
+**Building the infrastructure of tomorrow, today. 🚀**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Dev Quote"/>
-
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
