@@ -1,91 +1,89 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=eshanized&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=SYSTEMS%20%2F%20INFRASTRUCTURE%20%2F%20AI&descAlignY=65&descSize=18&color=0:02040a,45:07111f,75:052d3d,100:00131c" width="100%" />
+
 # `eshanized`
 
 ### Eshan Roy
 
-**Systems Engineer · Open Source Builder · Infrastructure Architect**
+`systems engineer` · `open source builder` · `infrastructure architect`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-eshanized-181717?style=for-the-badge\&logo=github)](https://github.com/eshanized)
-[![Rust](https://img.shields.io/badge/Rust-systems-000000?style=for-the-badge\&logo=rust)](https://www.rust-lang.org/)
-[![Linux](https://img.shields.io/badge/Linux-daily_driver-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://kernel.org/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-building-00D9FF?style=for-the-badge)](https://opensource.org/)
+<a href="https://github.com/eshanized">
+<img src="https://img.shields.io/badge/GITHUB-eshanized-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/eshanized/">
+<img src="https://img.shields.io/badge/LINKEDIN-eshanized-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tonmoyinfrastructure.org">
+<img src="https://img.shields.io/badge/TONMOY%20INFRASTRUCTURE-ONLINE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/eshanized?tab=followers">
+<img src="https://img.shields.io/github/followers/eshanized?style=for-the-badge&label=FOLLOWERS&color=0b7285&logo=github" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=BUILD.%20BREAK.%20UNDERSTAND.%20REBUILD.&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=55&color=0:050505,50:07111f,100:001f2e" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=I+build+software+that+lives+close+to+the+machine.;Operating+systems.+Developer+infrastructure.+AI+systems.;Fast+%E2%80%A2+inspectable+%E2%80%A2+recoverable+%E2%80%A2+deliberate.;I+don't+just+write+software.+I+engineer+systems." />
 
 </div>
 
 <br>
 
-> **I build software that lives close to the machine.**
->
-> Operating systems. Developer infrastructure. Autonomous agents. Distributed systems.
->
-> I like software that is fast, inspectable, recoverable, and deliberately engineered.
-
----
-
-## `whoami`
-
-```rust
-pub struct Eshan {
-    pub handle: &'static str,
-    pub role: &'static str,
-    pub interests: &'static [&'static str],
-    pub philosophy: &'static str,
-}
-
-impl Eshan {
-    pub const fn new() -> Self {
-        Self {
-            handle: "eshanized",
-            role: "systems engineer & builder",
-            interests: &[
-                "systems programming",
-                "linux",
-                "developer infrastructure",
-                "autonomous software",
-                "open source",
-            ],
-            philosophy: "make complex systems feel inevitable",
-        }
-    }
-}
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                              │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  Eshan Roy                                                             │
+│  Systems Engineer · Builder · Infrastructure Architect                 │
+│                                                                         │
+│  operating systems        developer tooling        ai infrastructure   │
+│  distributed systems      automation               security            │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm **Eshan Roy**, a developer and infrastructure builder working across the boundary between **systems engineering, developer tooling, Linux, and AI infrastructure**.
-
-I don't particularly enjoy building another CRUD application.
-
-I enjoy building the thing underneath it.
+> **I don't particularly enjoy building another CRUD application.**
+>
+> **I enjoy building the thing underneath it.**
 
 ---
 
-## `current_state`
+# `./current_state`
+
+<div align="center">
+
+| `SYSTEM`          |    `STATUS`    | `FOCUS`                                  |
+| :---------------- | :------------: | :--------------------------------------- |
+| ⚡ **M31A**        |    `ACTIVE`    | Autonomous software engineering          |
+| 🐧 **Snigdha OS** |    `ACTIVE`    | Linux ecosystem & desktop engineering    |
+| 🏗️ **TIVerse**   |   `BUILDING`   | Open-source systems & infrastructure     |
+| 🧠 **AI Systems** | `EXPERIMENTAL` | Agents · SLMs · inference infrastructure |
+
+</div>
+
+<br>
+
+### `what i'm building`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         CURRENTLY                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  M31A            autonomous software engineering             │
-│  Snigdha OS      Linux ecosystem & desktop engineering       │
-│  Infrastructure  Rust / Go / Python systems                  │
-│  AI Systems      agents · SLMs · model infrastructure        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                    ┌───────────────────────┐
+                    │       ESHANIZED       │
+                    └───────────┬───────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        ┌───────────┐     ┌───────────┐     ┌───────────┐
+        │  SYSTEMS  │     │    AI     │     │   INFRA   │
+        └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
+              │                 │                 │
+        ┌─────┼─────┐     ┌─────┼─────┐     ┌─────┼─────┐
+        ▼     ▼     ▼     ▼     ▼     ▼     ▼     ▼     ▼
+      linux  rust   go   agents  slms  tools   ci   runtimes  devtools
 ```
-
-### Building right now
-
-* **M31A** — autonomous coding and software-engineering infrastructure
-* **Snigdha OS** — an Arch-based Linux ecosystem
-* **Developer infrastructure** — high-performance tooling in Rust and Go
-* **AI infrastructure** — agents, model routing, SLM tooling and developer systems
 
 ---
 
@@ -95,13 +93,18 @@ I enjoy building the thing underneath it.
 
 ## ⚡ M31A
 
-### Autonomous software engineering, from the terminal.
+### `autonomous software engineering`
 
 <a href="https://github.com/eshanized/M31A">
-
-<img src="https://img.shields.io/github/stars/eshanized/M31A?style=for-the-badge&logo=github&label=STARS" />
-
+<img src="https://img.shields.io/github/stars/eshanized/M31A?style=for-the-badge&label=STARS&logo=github" />
 </a>
+<a href="https://github.com/eshanized/M31A">
+<img src="https://img.shields.io/github/forks/eshanized/M31A?style=for-the-badge&label=FORKS&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=initialize+%E2%86%92+discuss+%E2%86%92+plan+%E2%86%92+execute+%E2%86%92+verify+%E2%86%92+ship;model-agnostic+%C2%B7+tool-driven+%C2%B7+git-aware+%C2%B7+permission-aware" />
 
 </div>
 
@@ -110,68 +113,82 @@ M31A is built around a simple idea:
 > **An AI coding system shouldn't merely generate code. It should own the engineering loop.**
 
 ```text
-┌────────────┐
-│ Initialize │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  Discuss   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│    Plan    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  Execute   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│   Verify   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│    Ship    │
-└────────────┘
+┌──────────────┐
+│  INITIALIZE  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   DISCUSS    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     PLAN     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    EXECUTE   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    VERIFY    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     SHIP     │
+└──────────────┘
 ```
 
-**Model-agnostic · terminal-native · tool-driven · permission-aware · git-aware**
+**Designed around**
 
-[→ Explore M31A](https://github.com/eshanized/M31A)
+`terminal-native` · `tool-driven` · `model-agnostic` · `git-aware` · `permission-aware`
 
----
-
-# `the_ecosystem`
+<br>
 
 <div align="center">
 
-### 🐧 Snigdha OS
+<a href="https://github.com/eshanized/M31A">
 
-**Performance × Elegance**
+<img src="https://img.shields.io/badge/EXPLORE%20M31A-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
 
-A Linux ecosystem built around an opinionated desktop experience, system tooling, package management and developer utilities.
-
-[GitHub](https://github.com/Snigdha-OS) · [GitLab](https://gitlab.com/Snigdha-OS)
-
-<br><br>
-
-### 🏗️ Tonmoy Infrastructure
-
-Infrastructure, software products and engineering systems built around the same principle:
-
-**make infrastructure boring, reliable and powerful.**
-
-<br><br>
-
-### 🌌 TIVerse
-
-A collection of open-source infrastructure, developer tooling, security and systems projects.
+</a>
 
 </div>
 
 ---
 
-# `selected_work`
+# `the_ecosystem`
+
+### 🐧 Snigdha OS
+
+**Performance × Elegance**
+
+An Arch-based Linux ecosystem focused on a cohesive desktop experience, system tooling, package management and developer utilities.
+
+**Linux · Arch · Rust · Shell · Desktop**
+
+[GitHub](https://github.com/Snigdha-OS) · [GitLab](https://gitlab.com/Snigdha-OS)
+
+---
+
+### 🏗️ Tonmoy Infrastructure
+
+Software products and infrastructure systems built around one principle:
+
+> **make infrastructure boring, reliable and powerful.**
+
+[tonmoyinfrastructure.org](https://tonmoyinfrastructure.org)
+
+---
+
+### 🌌 TIVerse
+
+An evolving collection of open-source systems, infrastructure, developer tooling, security work and experiments.
+
+---
+
+# `selected_projects`
+
+<div align="center">
 
 <table>
 <tr>
@@ -179,18 +196,19 @@ A collection of open-source infrastructure, developer tooling, security and syst
 
 ### ⚡ M31A
 
-Autonomous coding agent and software-engineering system.
+Autonomous software-engineering system.
 
-**Go · TUI · LLMs · Git · Systems**
+`Go` `TUI` `LLMs` `Git` `Systems`
 
 </td>
+
 <td width="50%">
 
 ### 🐧 Snigdha OS
 
-Arch-based Linux ecosystem focused on performance and elegance.
+Arch-based Linux ecosystem.
 
-**Linux · Arch · Rust · Shell · QML**
+`Linux` `Arch` `Rust` `Shell`
 
 </td>
 </tr>
@@ -200,18 +218,19 @@ Arch-based Linux ecosystem focused on performance and elegance.
 
 ### 🧠 SLMGen
 
-Infrastructure for experimenting with and fine-tuning small language models.
+Small-language-model experimentation infrastructure.
 
-**Python · SLMs · Fine-tuning · ML**
+`Python` `ML` `SLMs` `Fine-tuning`
 
 </td>
+
 <td width="50%">
 
-### 🖥️ i3wm / i3wmd
+### 🔌 MCP SuperAssistant
 
-Linux desktop engineering, configuration and system tooling.
+Developer tooling around the Model Context Protocol ecosystem.
 
-**Linux · i3 · Shell · Desktop**
+`TypeScript` `MCP` `Developer Tools`
 
 </td>
 </tr>
@@ -219,24 +238,27 @@ Linux desktop engineering, configuration and system tooling.
 <tr>
 <td width="50%">
 
-### 🔌 MCP SuperAssistant
+### 🖥️ Linux / i3
 
-Developer tooling around the Model Context Protocol ecosystem.
+Desktop engineering and system tooling.
 
-**TypeScript · MCP · Developer Tools**
+`Linux` `i3` `Shell` `Desktop`
 
 </td>
+
 <td width="50%">
 
-### 🧪 Systems & Infrastructure
+### 🧪 Systems Lab
 
-Rust and Python projects spanning security, runtimes, dependency analysis, distributed systems and developer infrastructure.
+Security, runtimes, dependency analysis, automation and infrastructure experiments.
 
-**Rust · Python · Go · Linux**
+`Rust` `Go` `Python`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -244,29 +266,21 @@ Rust and Python projects spanning security, runtimes, dependency analysis, distr
 
 <div align="center">
 
-### Systems
+### systems
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash)
+<img src="https://skillicons.dev/icons?i=rust,go,c,python,bash&perline=10" />
 
-### Application
+### application
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,flutter&perline=10" />
 
-### Infrastructure
+### infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square\&logo=archlinux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab)
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,git,githubactions,gitlab&perline=10" />
+
+### data / ai
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,pytorch&perline=10" />
 
 </div>
 
@@ -275,27 +289,56 @@ Rust and Python projects spanning security, runtimes, dependency analysis, distr
 # `how_i_think`
 
 ```text
-01  Architecture before implementation.
+01  architecture before implementation
 
-02  Measure before optimizing.
+02  measure before optimizing
 
-03  Explicit failure beats mysterious failure.
+03  explicit failure beats mysterious failure
 
-04  Security is part of the architecture,
-    not a patch applied afterwards.
+04  security is part of the architecture
+    not a patch applied afterwards
 
-05  Dependencies should earn their place.
+05  dependencies should earn their place
 
-06  A system should remain understandable
-    after its author leaves the room.
+06  a system should remain understandable
+    after its author leaves the room
 
-07  If it can be automated, automate it.
+07  if it can be automated, automate it
 
-08  If it cannot be observed, it cannot
-    be trusted.
+08  if it cannot be observed, it cannot be trusted
 
-09  If it cannot be recovered, it isn't finished.
+09  if it cannot be recovered, it isn't finished
 ```
+
+---
+
+# `github.telemetry`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=eshanized&hide_border=true&theme=transparent" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eshanized&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+
+</div>
+
+---
+
+# `activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshanized&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
@@ -303,46 +346,52 @@ Rust and Python projects spanning security, runtimes, dependency analysis, distr
 
 I believe the best engineering conversations happen in public.
 
-I build, maintain and experiment across:
-
 ```text
-      SYSTEMS
-         │
-         ├── operating systems
-         ├── runtimes
-         ├── infrastructure
-         └── developer tooling
-                 │
-                 ▼
-              SOFTWARE
-                 │
-         ┌───────┴───────┐
-         ▼               ▼
-       AI/ML          SECURITY
-         │               │
-         ├── agents      ├── integrity
-         ├── SLMs        ├── zero-trust
-         ├── tooling     └── hardening
-         └── inference
+                         ┌──────────────┐
+                         │   SYSTEMS    │
+                         └──────┬───────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+        OPERATING           RUNTIMES         INFRASTRUCTURE
+         SYSTEMS                               
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                         DEVELOPER TOOLS
+                                │
+                  ┌─────────────┼─────────────┐
+                  ▼             ▼             ▼
+                 AI          SECURITY      AUTOMATION
+                  │
+           ┌──────┼──────┐
+           ▼      ▼      ▼
+         AGENTS   SLMs  INFERENCE
 ```
 
-If something here is useful to you, **fork it, break it, improve it, and send the patch back.**
+I build, maintain and experiment across the layers beneath ordinary software.
+
+**Fork it. Break it. Improve it. Send the patch back.**
 
 ---
 
-# `github`
+# `terminal`
 
-<div align="center">
+```bash
+$ neofetch eshanized
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="170" />
+OS        → Linux
+WM        → i3
+Languages → Rust · Go · Python · TypeScript · C · Bash
+Focus     → systems · infrastructure · AI
+Mode      → building
+Status    → online
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" />
+$ echo $PHILOSOPHY
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&hide_border=true&theme=transparent" />
-
-</div>
+"make complex systems feel inevitable"
+```
 
 ---
 
@@ -351,16 +400,20 @@ If something here is useful to you, **fork it, break it, improve it, and send th
 <div align="center">
 
 <a href="https://github.com/eshanized">
-<img src="https://img.shields.io/badge/GitHub-eshanized-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-eshanized-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/eshanized/">
-<img src="https://img.shields.io/badge/LinkedIn-Eshan%20Roy-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-Eshan%20Roy-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://tonmoyinfrastructure.org">
-<img src="https://img.shields.io/badge/Tonmoy%20Infrastructure-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/TONMOY%20INFRASTRUCTURE-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=eshanized&style=for-the-badge&color=0e7490&label=PROFILE+VISITS" />
 
 </div>
 
@@ -369,19 +422,19 @@ If something here is useful to you, **fork it, break it, improve it, and send th
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   build systems.                                    │
-│   build tools.                                      │
-│   build things that outlive the hype.               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   build systems.                                             │
+│   build tools.                                               │
+│   build things that outlive the hype.                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ### `— Eshan Roy`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001f2e,50:07111f,100:050505" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00131c,45:052d3d,75:07111f,100:02040a" width="100%" />
 
 </div>
