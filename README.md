@@ -25,6 +25,18 @@ I build software close to the machine: Linux tooling, developer workflows, infra
 
 Project capabilities and release status vary. Follow each repository's README, issues, release notes, and CI workflow for the current implementation status.
 
+## Verify the work
+
+I prefer implementation evidence over vanity metrics. These links go directly to each project's automation and release history; they do not imply that every workflow is currently passing.
+
+| Project | CI / checks | Releases |
+|---|---|---|
+| [M31A](https://github.com/eshanized/M31A) | [Release gates](https://github.com/eshanized/M31A/actions/workflows/release-gates.yml) · [Build workflows](https://github.com/eshanized/M31A/actions) | [Releases](https://github.com/eshanized/M31A/releases) |
+| [OpenMail](https://github.com/eshanized/OpenMail) | [CI workflow](https://github.com/eshanized/OpenMail/actions/workflows/ci.yml) | [Releases](https://github.com/eshanized/OpenMail/releases) |
+| [Octate](https://github.com/eshanized/Octate) | [CI workflow](https://github.com/eshanized/Octate/actions/workflows/ci.yml) | [Releases](https://github.com/eshanized/Octate/releases) |
+| [SLMGen](https://github.com/eshanized/SLMGen) | [CI workflow](https://github.com/eshanized/SLMGen/actions/workflows/ci.yml) | [Releases](https://github.com/eshanized/SLMGen/releases) |
+| [Runstead](https://github.com/eshanized/Runstead) | [CI workflow](https://github.com/eshanized/Runstead/actions/workflows/ci.yml) | [Releases](https://github.com/eshanized/Runstead/releases) |
+
 ## Engineering principles
 
 - **Architecture before implementation.** Keep domain boundaries understandable and explicit.
