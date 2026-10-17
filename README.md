@@ -12,18 +12,33 @@ I build software close to the machine: Linux tooling, developer workflows, infra
 
 ---
 
-## Current focus
+## Flagship work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [M31A](https://github.com/eshanized/M31A) | Rust-native terminal coding agent focused on policy-controlled tool execution, recoverable workflows, and evidence-based verification. | Rust · Ratatui · SQLite |
-| [Snigdha OS](https://gitlab.com/Snigdha-OS) | An Arch-based Linux ecosystem focused on desktop experience and system tooling. | Linux · Arch · i3 |
-| [Octate](https://github.com/eshanized/Octate) | Developer-oriented code review tooling with local static analysis and optional model-backed review. | TypeScript · Node.js |
-| [OpenMail](https://github.com/eshanized/OpenMail) | Self-hosted webmail for organizations using existing IMAP/SMTP infrastructure, without third-party AI analysis of mail content. | PHP · Laravel · Livewire |
-| [SLMGen](https://github.com/eshanized/SLMGen) | A toolkit that prepares dataset analysis and fine-tuning workflows for small language models. | Python · FastAPI · TypeScript |
-| [Runstead](https://github.com/eshanized/Runstead) | A hosting-business platform concept with an interactive browser-first product simulation. | Next.js · TypeScript |
+### [M31A](https://github.com/eshanized/M31A) · autonomous software engineering
 
-Project capabilities and release status vary. Follow each repository's README, issues, release notes, and CI workflow for the current implementation status.
+A Rust-native terminal coding agent built around runtime-owned policy decisions, recoverable workflows, and evidence-based verification.
+
+`Rust` `Ratatui` `SQLite` · [Documentation](https://github.com/eshanized/M31A/tree/master/docs) · [Releases](https://github.com/eshanized/M31A/releases)
+
+### [Snigdha OS](https://gitlab.com/Snigdha-OS) · Linux systems
+
+An Arch-based Linux ecosystem focused on desktop experience, system tooling, and the performance/elegance balance.
+
+`Linux` `Arch` `i3` · [GitLab projects](https://gitlab.com/Snigdha-OS)
+
+### [OpenMail](https://github.com/eshanized/OpenMail) · privacy-first webmail
+
+Self-hosted organizational webmail that connects to existing IMAP/SMTP infrastructure. It deliberately avoids third-party AI analysis of message content.
+
+`PHP` `Laravel` `Livewire` · [Setup guide](https://github.com/eshanized/OpenMail/blob/master/SETUP.md) · [Security policy](https://github.com/eshanized/OpenMail/blob/master/SECURITY.md)
+
+## Other projects
+
+- [Octate](https://github.com/eshanized/Octate) — code-review tooling combining local static analysis with optional model-backed review. `TypeScript` `Node.js`
+- [SLMGen](https://github.com/eshanized/SLMGen) — tools for dataset analysis and small-language-model fine-tuning workflows. `Python` `FastAPI` `TypeScript`
+- [Runstead](https://github.com/eshanized/Runstead) — a hosting-business platform concept with an interactive browser-first simulation; infrastructure actions and payments are simulated. `Next.js` `TypeScript`
+
+Project capabilities and release status vary. Follow the repository README, issue tracker, release notes, and CI workflow for current implementation status.
 
 ## Verify the work
 
