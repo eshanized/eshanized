@@ -54,7 +54,7 @@ An open-source coding assistant focused on orchestrating development workflows, 
 </td>
 <td width="50%" valign="top">
 
-### [Snigdha OS](https://gitlab.com/Snigdha-OS)
+### [Snigdha OS](https://gitlab.com/SnigdhaOS)
 
 **An independent Arch Linux ecosystem**
 
@@ -62,7 +62,7 @@ Building an Arch-based Linux distribution and its surrounding ecosystem: desktop
 
 Current direction: **Snigdha OS Eclipse** and the **Decentralize** initiative.
 
-[GitLab group](https://gitlab.com/Snigdha-OS) · [Decentralize](https://gitlab.com/SnigdhaOS/decentralize)
+[GitLab group](https://gitlab.com/SnigdhaOS) · [Decentralize](https://gitlab.com/SnigdhaOS/decentralize)
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ Project maturity varies. Check each repository's README, releases, and CI workfl
 - **GitHub:** [github.com/eshanized](https://github.com/eshanized)
 - **LinkedIn:** [linkedin.com/in/eshanized](https://www.linkedin.com/in/eshanized/)
 - **Company:** [tonmoyinfrastructure.org](https://tonmoyinfrastructure.org)
-- **Snigdha OS:** [gitlab.com/Snigdha-OS](https://gitlab.com/Snigdha-OS)
+- **Snigdha OS:** [gitlab.com/Snigdha-OS](https://gitlab.com/SnigdhaOS)
 - **M31A:** [m31a.tonmoyinfrastructure.org](https://m31a.tonmoyinfrastructure.org/)
 
 For project-specific questions, bug reports, or feature requests, please use the issue tracker of the relevant repository. Reproducible reports and focused discussions are always appreciated.
