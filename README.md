@@ -2,11 +2,25 @@
 
 # Eshan Roy · `eshanized`
 
-### Systems Engineer · Developer Tools · Autonomous AI Systems
+### Founder & Systems Engineer · Open-source Builder · AI & Infrastructure
 
-I build software that connects **systems-level engineering** with practical developer workflows: desktop AI agents, autonomous coding runtimes, Linux tooling, infrastructure, and applied ML research.
+I build software at the intersection of **systems engineering, artificial intelligence, and developer infrastructure**.
 
-[GitHub](https://github.com/eshanized) · [LinkedIn](https://www.linkedin.com/in/eshanized/) · [Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)
+As the founder of **[Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)**, I work on autonomous software engineering, Linux ecosystems, developer tools, and infrastructure products — taking ideas from architecture through implementation.
+
+[Website](https://tonmoyinfrastructure.org) · [LinkedIn](https://www.linkedin.com/in/eshanized/) · [GitHub](https://github.com/eshanized)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📢 A small availability note
+
+**I'm currently focused on actively developing Snigdha OS.**
+
+Replies to messages, issues, and discussions may be a little slower than usual while I work on the next chapter of the project. I'll get back to you as soon as I can. Thank you for your patience and understanding.
 
 </div>
 
@@ -14,7 +28,14 @@ I build software that connects **systems-level engineering** with practical deve
 
 ## What I'm building
 
-My work focuses on making complex software systems more useful, inspectable, and dependable. I care about clear architecture, explicit safety boundaries, reproducible verification, and honest documentation of what is implemented versus planned.
+My work is driven by a simple idea: useful software should be thoughtfully engineered, dependable, understandable, and accessible to the people who use it.
+
+I spend most of my time across four areas:
+
+- **Autonomous software engineering** — agents and runtimes that can plan, execute, coordinate, and verify development work.
+- **Linux and open-source ecosystems** — operating-system experiences, system utilities, packaging, and developer infrastructure.
+- **Developer tools** — practical tools that improve code quality, engineering workflows, and productivity.
+- **Infrastructure software** — platforms and services designed around reliability, security, and operational clarity.
 
 ## Featured projects
 
@@ -22,109 +43,99 @@ My work focuses on making complex software systems more useful, inspectable, and
 <tr>
 <td width="50%" valign="top">
 
-### [Kyro](https://github.com/eshanized/Kyro)
-**Local-first desktop AI agent**
+### [M31A](https://github.com/eshanized/M31A)
 
-A Tauri, Rust, and React desktop assistant spanning everyday computer tasks and developer workflows. The project explores visual screen understanding, browser automation, reversible file operations, document assistance, build diagnostics, and UI auditing.
+**Autonomous software engineering agent**
 
-**Stack:** `Tauri 2` · `Rust` · `React` · `TypeScript`
+An open-source coding assistant focused on orchestrating development workflows, governed tool execution, multi-step engineering tasks, and verifiable outcomes.
 
-[Repository](https://github.com/eshanized/Kyro) · [CI](https://github.com/eshanized/Kyro/actions/workflows/ci.yml)
+[Repository](https://github.com/eshanized/M31A) · [Documentation](https://m31a.tonmoyinfrastructure.org/) · [Releases](https://github.com/eshanized/M31A/releases)
 
 </td>
 <td width="50%" valign="top">
 
-### [M31A](https://github.com/eshanized/M31A)
-**Autonomous software engineering runtime**
+### [Snigdha OS](https://gitlab.com/Snigdha-OS)
 
-A Rust-native terminal coding agent built around a key boundary: **the model proposes; the runtime decides**. Its design emphasizes governed tool execution, recoverable workflows, checkpoints, and evidence-based verification.
+**An independent Arch Linux ecosystem**
 
-**Stack:** `Rust` · `Ratatui` · `SQLite`
+Building an Arch-based Linux distribution and its surrounding ecosystem: desktop experiences, system applications, package infrastructure, and tools for users and developers.
 
-[Documentation](https://github.com/eshanized/M31A/tree/master/docs) · [Releases](https://github.com/eshanized/M31A/releases) · [CI](https://github.com/eshanized/M31A/actions)
+Current direction: **Snigdha OS Eclipse** and the **Decentralize** initiative.
+
+[GitLab group](https://gitlab.com/Snigdha-OS) · [Decentralize](https://gitlab.com/SnigdhaOS/decentralize)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Snigdha OS](https://gitlab.com/Snigdha-OS)
-**Linux systems and desktop experience**
+### [Kyro](https://github.com/eshanized/Kyro)
 
-An Arch-based Linux ecosystem focused on system tooling, desktop workflows, and balancing performance with elegance.
+**Local-first autonomous desktop AI agent**
 
-**Focus:** `Linux` · `Arch Linux` · `i3`
+Exploring secure computer interaction, desktop automation, browser workflows, developer assistance, and human-controlled execution through a native desktop application.
 
-[GitLab projects](https://gitlab.com/Snigdha-OS)
+[Repository](https://github.com/eshanized/Kyro) · [Website](https://kyro.tonmoyinfrastructure.org/)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Octate](https://github.com/eshanized/Octate)
-**Terminal-native AI code review**
 
-A developer tool combining deterministic repository analysis with optional model-backed review, interactive terminal workflows, and machine-readable output for automation.
+**Terminal-native code review**
 
-**Stack:** `TypeScript` · `Node.js` · `Tree-sitter` · `SARIF`
+A developer tool bringing repository analysis and code review into terminal workflows, with automation-friendly output and optional model-assisted review.
 
-[Repository](https://github.com/eshanized/Octate) · [Releases](https://github.com/eshanized/Octate/releases) · [CI](https://github.com/eshanized/Octate/actions)
+[Repository](https://github.com/eshanized/Octate)
 
 </td>
 </tr>
 </table>
 
-## More work
+## Other projects
 
-- **[OpenMail](https://github.com/eshanized/OpenMail)** — self-hosted organizational webmail built to connect with existing mail infrastructure. `PHP` · `Laravel` · `Livewire`
-- **[SLMGen](https://github.com/eshanized/SLMGen)** — tooling for dataset analysis and small-language-model experimentation and fine-tuning workflows. `Python` · `FastAPI` · `TypeScript`
-- **[Runstead](https://github.com/eshanized/Runstead)** — a hosting-business management platform with a browser-first interactive simulation. Some infrastructure and payment flows are demonstrations, not live operations. `Next.js` · `TypeScript`
-- **[Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)** — the broader portfolio spanning software, developer infrastructure, and research.
-
-Project maturity varies. Please use each repository's current README, release history, and CI results as the source of truth for supported features and release readiness.
-
-## How I work
-
-- **Architecture first:** keep boundaries and responsibilities explicit.
-- **Evidence over claims:** prefer reproducible tests and observable behavior over vanity metrics.
-- **Safety by design:** validate untrusted input and put meaningful controls around consequential actions.
-- **Recovery is a feature:** design for cancellation, checkpoints, rollback, and useful diagnostics.
-- **Honest status:** distinguish implemented behavior, demonstrations, experiments, and roadmap items.
-
-## Technical interests
-
-| Area | Tools and topics |
+| Project | What it does |
 |---|---|
-| Systems engineering | Rust, Go, Linux, shell tooling, process and runtime design |
-| Developer experience | TypeScript, React, Next.js, terminal interfaces, code intelligence |
-| Desktop & automation | Tauri, browser automation, computer-use workflows, MCP |
-| Infrastructure | Git, CI/CD, databases, deployment automation, operational tooling |
-| Applied ML | Small language models, dataset pipelines, evaluation and reproducible experiments |
+| [OpenMail](https://github.com/eshanized/OpenMail) | Self-hosted organizational webmail that connects to existing IMAP/SMTP infrastructure, with an emphasis on privacy and security. |
+| [SLMGen](https://github.com/eshanized/SLMGen) | Tooling for dataset workflows and small-language-model experimentation. |
+| [Runstead](https://github.com/eshanized/Runstead) | A hosting-business management platform exploring customer, billing, service, and infrastructure workflows. |
+| [Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org) | The company behind a growing portfolio of software, infrastructure, and research initiatives. |
 
-## Verification and project activity
+Project maturity varies. Check each repository's README, releases, and CI workflows for current implementation status and supported capabilities.
 
-I prefer links to the source of evidence instead of static claims that can go stale.
+## Engineering interests
 
-| Project | Automation | Releases / source |
-|---|---|---|
-| [Kyro](https://github.com/eshanized/Kyro) | [GitHub Actions](https://github.com/eshanized/Kyro/actions) | [Repository](https://github.com/eshanized/Kyro) |
-| [M31A](https://github.com/eshanized/M31A) | [GitHub Actions](https://github.com/eshanized/M31A/actions) | [Releases](https://github.com/eshanized/M31A/releases) |
-| [Octate](https://github.com/eshanized/Octate) | [GitHub Actions](https://github.com/eshanized/Octate/actions) | [Releases](https://github.com/eshanized/Octate/releases) |
-| [OpenMail](https://github.com/eshanized/OpenMail) | [GitHub Actions](https://github.com/eshanized/OpenMail/actions) | [Releases](https://github.com/eshanized/OpenMail/releases) |
-| [SLMGen](https://github.com/eshanized/SLMGen) | [GitHub Actions](https://github.com/eshanized/SLMGen/actions) | [Repository](https://github.com/eshanized/SLMGen) |
-| [Runstead](https://github.com/eshanized/Runstead) | [GitHub Actions](https://github.com/eshanized/Runstead/actions) | [Repository](https://github.com/eshanized/Runstead) |
+| Domain | Technologies and topics |
+|---|---|
+| Systems engineering | Rust, Go, Python, Linux, process and runtime design |
+| Developer experience | TypeScript, JavaScript, React, Next.js, terminal interfaces |
+| Desktop & automation | Tauri, browser automation, computer interaction, MCP |
+| Infrastructure | CI/CD, Git, databases, deployment and package infrastructure |
+| AI engineering | Autonomous agents, model integrations, SLMs, evaluation and dataset pipelines |
+| Linux ecosystems | Arch Linux, system integration, packaging, desktop environments |
 
-These links expose current project activity; they do not imply every workflow is passing.
+## How I approach engineering
 
-## Open source and collaboration
+- **Architecture before accumulation:** clear boundaries, explicit responsibilities, and maintainable systems.
+- **Evidence over hype:** observable behavior, reproducible tests, and honest project status.
+- **Security as a design constraint:** explicit trust boundaries, least privilege, and careful handling of sensitive operations.
+- **Reliability through recovery:** cancellation, checkpoints, rollback, and useful diagnostics are part of the design.
+- **Open development:** useful documentation, reviewable changes, and constructive collaboration.
 
-I value focused issues, reproducible bug reports, reviewable pull requests, and documentation that describes actual behavior.
+## Find me around the open-source community
 
-- [Browse all repositories](https://github.com/eshanized?tab=repositories)
-- [Explore Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)
-- [Connect on LinkedIn](https://www.linkedin.com/in/eshanized/)
+- **GitHub:** [github.com/eshanized](https://github.com/eshanized)
+- **LinkedIn:** [linkedin.com/in/eshanized](https://www.linkedin.com/in/eshanized/)
+- **Company:** [tonmoyinfrastructure.org](https://tonmoyinfrastructure.org)
+- **Snigdha OS:** [gitlab.com/Snigdha-OS](https://gitlab.com/Snigdha-OS)
+- **M31A:** [m31a.tonmoyinfrastructure.org](https://m31a.tonmoyinfrastructure.org/)
 
-For bugs or feature requests, please open an issue in the relevant project's repository so the context and reproduction steps stay with the code.
+For project-specific questions, bug reports, or feature requests, please use the issue tracker of the relevant repository. Reproducible reports and focused discussions are always appreciated.
 
 ---
 
-<sub>Maintained by Eshan Roy · Built in public, with an emphasis on verifiable behavior, thoughtful systems design, and honest engineering.</sub>
+<div align="center">
+
+<sub>Built in public by Eshan Roy · Engineering systems with purpose, curiosity, and care.</sub>
+
+</div>
