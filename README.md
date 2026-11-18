@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-motion-v2.gif" width="100%" alt="Animated introduction: Eshan Roy, Founder and Systems Engineer, building from first principles across AI, Linux, developer tools and infrastructure" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-motion-v3.gif" width="100%" alt="Animated introduction: Eshan Roy, Founder and Systems Engineer, building from first principles across AI, Linux, developer tools and infrastructure" />
 
 </div>
 
