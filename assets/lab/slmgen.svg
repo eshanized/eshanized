@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="156" viewBox="0 0 720 156" role="img" aria-labelledby="title desc">
-<title id="title">SLMGen — DATA & MODEL TOOLING</title>
+<title id="title">SLMGen — DATA &amp; MODEL TOOLING</title>
 <desc id="desc">From raw data to small models.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1624"/><stop offset="1" stop-color="#132438"/></linearGradient>
