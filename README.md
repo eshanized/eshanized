@@ -69,13 +69,73 @@ Developer tooling that brings repository analysis and code-review workflows clos
 
 ### More from the lab
 
-| Project | Focus |
-|:--|:--|
-| [OpenMail](https://github.com/eshanized/OpenMail) | Privacy-conscious webmail for existing mail infrastructure |
-| [SLMGen](https://github.com/eshanized/SLMGen) | Small-language-model and dataset workflows |
-| [Runstead](https://github.com/eshanized/Runstead) | Hosting-business and service-management platform |
-| [CutePanda](https://github.com/eshanized/CutePanda) | Lightweight browser exploration |
-| [MCP-SuperAssistant](https://github.com/eshanized/MCP-SuperAssistant) | MCP ecosystem and assistant tooling |
+A collection of experiments and products exploring the edges of software, infrastructure, and developer experience.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/eshanized/OpenMail"><img src="./assets/lab/openmail.svg" width="100%" alt="OpenMail — mail infrastructure" /></a>
+
+**[OpenMail](https://github.com/eshanized/OpenMail)**
+
+Privacy-conscious webmail designed to work with existing mail infrastructure. A self-hosting-oriented approach to organizational email.
+
+<sub>MAIL · PRIVACY · IMAP / SMTP</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/eshanized/SLMGen"><img src="./assets/lab/slmgen.svg" width="100%" alt="SLMGen — data and model tooling" /></a>
+
+**[SLMGen](https://github.com/eshanized/SLMGen)**
+
+Tooling for small-language-model experimentation and dataset workflows, from preparing source data to building useful model pipelines.
+
+<sub>AI · DATASETS · MODEL TOOLING</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/eshanized/Runstead"><img src="./assets/lab/runstead.svg" width="100%" alt="Runstead — hosting operations" /></a>
+
+**[Runstead](https://github.com/eshanized/Runstead)**
+
+A hosting-business management platform exploring the workflows behind customers, services, billing, and infrastructure operations.
+
+<sub>HOSTING · OPERATIONS · PLATFORM</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/eshanized/CutePanda"><img src="./assets/lab/cutepanda.svg" width="100%" alt="CutePanda — browser experience" /></a>
+
+**[CutePanda](https://github.com/eshanized/CutePanda)**
+
+A lightweight browser exploration focused on a clean, approachable browsing experience without unnecessary complexity.
+
+<sub>BROWSER · DESKTOP · USER EXPERIENCE</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/eshanized/MCP-SuperAssistant"><img src="./assets/lab/mcp-superassistant.svg" width="100%" alt="MCP-SuperAssistant — protocol and assistant tooling" /></a>
+
+**[MCP-SuperAssistant](https://github.com/eshanized/MCP-SuperAssistant)**
+
+Exploring the Model Context Protocol ecosystem and assistant tooling: connecting AI applications with external capabilities through structured tool interfaces.
+
+<sub>MCP · AI INTEGRATIONS · TOOL ECOSYSTEM</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Each project is evolving independently. Visit its repository for implementation details, current capabilities, and contribution opportunities.</sub>
 
 ## Technology
 
