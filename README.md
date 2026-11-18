@@ -86,7 +86,7 @@ Privacy-conscious webmail designed to work with existing mail infrastructure. A 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/eshanized/SLMGen"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/slmgen.svg" width="100%" alt="SLMGen — data and model tooling" /></a>
+<a href="https://github.com/eshanized/SLMGen"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/slmgen-banner-v2.svg" width="100%" alt="SLMGen — data and model tooling" /></a>
 
 **[SLMGen](https://github.com/eshanized/SLMGen)**
 
@@ -123,7 +123,7 @@ A lightweight browser exploration focused on a clean, approachable browsing expe
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://github.com/eshanized/MCP-SuperAssistant"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/mcp-superassistant.svg" width="100%" alt="MCP-SuperAssistant — protocol and assistant tooling" /></a>
+<a href="https://github.com/eshanized/MCP-SuperAssistant"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/mcp-superassistant-banner-v2.svg" width="100%" alt="MCP-SuperAssistant — protocol and assistant tooling" /></a>
 
 **[MCP-SuperAssistant](https://github.com/eshanized/MCP-SuperAssistant)**
 
