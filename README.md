@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Eshan Roy — Systems, AI and open source" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/hero.svg" width="100%" alt="Eshan Roy — Systems, AI and open source" />
 
 **Founder & CEO · Systems Engineer · Open-source Builder**
 
@@ -20,14 +20,14 @@ My goal is to turn ambitious engineering ideas into software that is dependable,
 
 ## The engineering map
 
-<img src="./assets/engineering-map.svg" width="100%" alt="Four connected engineering domains: autonomous AI, Linux ecosystems, developer tools and infrastructure" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/engineering-map.svg" width="100%" alt="Four connected engineering domains: autonomous AI, Linux ecosystems, developer tools and infrastructure" />
 
 ## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/eshanized/M31A"><img src="./assets/projects/m31a.svg" width="100%" alt="M31A — Autonomous Engineering"/></a>
+<a href="https://github.com/eshanized/M31A"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/projects/m31a.svg" width="100%" alt="M31A — Autonomous Engineering"/></a>
 
 **[M31A — Autonomous software engineering](https://github.com/eshanized/M31A)**
 
@@ -36,7 +36,7 @@ An open-source engineering agent focused on repository understanding, planning, 
 [Repository](https://github.com/eshanized/M31A) · [Product](https://m31a.tonmoyinfrastructure.org/) · [Docs](https://docs.m31a.tonmoyinfrastructure.org/)
 </td>
 <td width="50%" valign="top">
-<a href="https://gitlab.com/SnigdhaOS"><img src="./assets/projects/snigdha-os.svg" width="100%" alt="Snigdha OS — Linux ecosystem"/></a>
+<a href="https://gitlab.com/SnigdhaOS"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/projects/snigdha-os.svg" width="100%" alt="Snigdha OS — Linux ecosystem"/></a>
 
 **[Snigdha OS — Linux ecosystem](https://gitlab.com/SnigdhaOS)**
 
@@ -47,7 +47,7 @@ An independent Arch-based operating-system ecosystem spanning desktop experience
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/eshanized/Kyro"><img src="./assets/projects/kyro.svg" width="100%" alt="Kyro — Desktop AI workspace"/></a>
+<a href="https://github.com/eshanized/Kyro"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/projects/kyro.svg" width="100%" alt="Kyro — Desktop AI workspace"/></a>
 
 **[Kyro — Desktop AI workspace](https://github.com/eshanized/Kyro)**
 
@@ -56,7 +56,7 @@ Exploring agent-driven desktop workflows, browser interaction, automation, and u
 [Repository](https://github.com/eshanized/Kyro) · [Product](https://kyro.tonmoyinfrastructure.org/)
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/eshanized/Octate"><img src="./assets/projects/octate.svg" width="100%" alt="Octate — Terminal code review"/></a>
+<a href="https://github.com/eshanized/Octate"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/projects/octate.svg" width="100%" alt="Octate — Terminal code review"/></a>
 
 **[Octate — Terminal-native code review](https://github.com/eshanized/Octate)**
 
@@ -75,7 +75,7 @@ A collection of experiments and products exploring the edges of software, infras
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/eshanized/OpenMail"><img src="./assets/lab/openmail.svg" width="100%" alt="OpenMail — mail infrastructure" /></a>
+<a href="https://github.com/eshanized/OpenMail"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/openmail.svg" width="100%" alt="OpenMail — mail infrastructure" /></a>
 
 **[OpenMail](https://github.com/eshanized/OpenMail)**
 
@@ -86,7 +86,7 @@ Privacy-conscious webmail designed to work with existing mail infrastructure. A 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/eshanized/SLMGen"><img src="./assets/lab/slmgen.svg" width="100%" alt="SLMGen — data and model tooling" /></a>
+<a href="https://github.com/eshanized/SLMGen"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/slmgen.svg" width="100%" alt="SLMGen — data and model tooling" /></a>
 
 **[SLMGen](https://github.com/eshanized/SLMGen)**
 
@@ -99,7 +99,7 @@ Tooling for small-language-model experimentation and dataset workflows, from pre
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/eshanized/Runstead"><img src="./assets/lab/runstead.svg" width="100%" alt="Runstead — hosting operations" /></a>
+<a href="https://github.com/eshanized/Runstead"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/runstead.svg" width="100%" alt="Runstead — hosting operations" /></a>
 
 **[Runstead](https://github.com/eshanized/Runstead)**
 
@@ -110,7 +110,7 @@ A hosting-business management platform exploring the workflows behind customers,
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/eshanized/CutePanda"><img src="./assets/lab/cutepanda.svg" width="100%" alt="CutePanda — browser experience" /></a>
+<a href="https://github.com/eshanized/CutePanda"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/cutepanda.svg" width="100%" alt="CutePanda — browser experience" /></a>
 
 **[CutePanda](https://github.com/eshanized/CutePanda)**
 
@@ -123,7 +123,7 @@ A lightweight browser exploration focused on a clean, approachable browsing expe
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://github.com/eshanized/MCP-SuperAssistant"><img src="./assets/lab/mcp-superassistant.svg" width="100%" alt="MCP-SuperAssistant — protocol and assistant tooling" /></a>
+<a href="https://github.com/eshanized/MCP-SuperAssistant"><img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/lab/mcp-superassistant.svg" width="100%" alt="MCP-SuperAssistant — protocol and assistant tooling" /></a>
 
 **[MCP-SuperAssistant](https://github.com/eshanized/MCP-SuperAssistant)**
 
@@ -143,21 +143,21 @@ Exploring the Model Context Protocol ecosystem and assistant tooling: connecting
 
 **Programming languages**
 
-<img src="./assets/languages.svg" width="100%" alt="Animated badges for Rust, Go, Python, TypeScript, JavaScript and Bash" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/languages.svg" width="100%" alt="Animated badges for Rust, Go, Python, TypeScript, JavaScript and Bash" />
 
 **Platforms & systems**
 
-<img src="./assets/platforms.svg" width="100%" alt="Animated badges for Linux, Arch Linux, Docker, Git, CI/CD and system integration" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/platforms.svg" width="100%" alt="Animated badges for Linux, Arch Linux, Docker, Git, CI/CD and system integration" />
 
 **Application engineering**
 
-<img src="./assets/application-engineering.svg" width="100%" alt="Animated badges for React, Next.js, Node.js, PostgreSQL, MySQL, Firebase and Supabase" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/application-engineering.svg" width="100%" alt="Animated badges for React, Next.js, Node.js, PostgreSQL, MySQL, Firebase and Supabase" />
 
 </div>
 
 ## Engineering telemetry
 
-<img src="./assets/activity-orbit.svg" width="100%" alt="Animated engineering telemetry orbit linking M31A, Snigdha OS, Kyro, Octate and OpenMail" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/activity-orbit.svg" width="100%" alt="Animated engineering telemetry orbit linking M31A, Snigdha OS, Kyro, Octate and OpenMail" />
 
 <div align="center">
 
