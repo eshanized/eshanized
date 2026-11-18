@@ -155,15 +155,41 @@ Exploring the Model Context Protocol ecosystem and assistant tooling: connecting
 
 </div>
 
-## GitHub activity
+## Engineering telemetry
+
+<img src="./assets/activity-orbit.svg" width="100%" alt="Animated engineering telemetry orbit linking M31A, Snigdha OS, Kyro, Octate and OpenMail" />
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&hide_border=true&bg_color=0b1422&title_color=53e3d3&text_color=c1d0dd&icon_color=b9a3ff" alt="GitHub stats for eshanized"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&hide_border=true&bg_color=0b1422&title_color=53e3d3&text_color=c1d0dd" alt="Most used languages"/>
+
+**CONTRIBUTION MAP · THE LAST 12 MONTHS**
+
+<img src="https://ghchart.rshah.org/53e3d3/eshanized" width="100%" alt="GitHub contribution heatmap for eshanized" />
+
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0b1422&title_color=53e3d3&text_color=c1d0dd&icon_color=b9a3ff&rank_icon=github" width="100%" alt="GitHub overview statistics" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://streak-stats.demolab.com?user=eshanized&theme=transparent&hide_border=true&background=0B1422&ring=53E3D3&fire=B99AFF&currStreakLabel=53E3D3&sideLabels=C1D0DD&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak statistics" />
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshanized&bg_color=0b1422&color=c1d0dd&line=53e3d3&point=b9a3ff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+**COMMIT PULSE · CONTRIBUTION HISTORY**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshanized&bg_color=0b1422&color=c1d0dd&line=53e3d3&point=b9a3ff&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="GitHub activity graph showing contribution history over time" />
+
+<sub>Charts are generated from public GitHub activity. External chart services may cache results before refreshing.</sub>
+
 </div>
 
 ## How I build
