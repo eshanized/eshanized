@@ -85,11 +85,13 @@ Developer tooling that brings repository analysis and code-review workflows clos
 
 <img src="./assets/languages.svg" width="100%" alt="Animated badges for Rust, Go, Python, TypeScript, JavaScript and Bash" />
 
-**Platforms & systems**  
-Linux · Arch Linux · Docker · Git · CI/CD · system integration
+**Platforms & systems**
 
-**Application engineering**  
-React · Next.js · Node.js · PostgreSQL · MySQL · Firebase · Supabase
+<img src="./assets/platforms.svg" width="100%" alt="Animated badges for Linux, Arch Linux, Docker, Git, CI/CD and system integration" />
+
+**Application engineering**
+
+<img src="./assets/application-engineering.svg" width="100%" alt="Animated badges for React, Next.js, Node.js, PostgreSQL, MySQL, Firebase and Supabase" />
 
 </div>
 
