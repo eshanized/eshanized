@@ -81,8 +81,9 @@ Developer tooling that brings repository analysis and code-review workflows clos
 
 <div align="center">
 
-**Languages**  
-Rust · Go · Python · TypeScript · JavaScript · Bash
+**Programming languages**
+
+<img src="./assets/languages.svg" width="100%" alt="Animated badges for Rust, Go, Python, TypeScript, JavaScript and Bash" />
 
 **Platforms & systems**  
 Linux · Arch Linux · Docker · Git · CI/CD · system integration
