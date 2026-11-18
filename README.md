@@ -12,11 +12,41 @@
 
 ## About
 
-I'm **Eshan Roy**, founder of **[Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)**. I work across systems engineering, autonomous software engineering, Linux ecosystems, developer tooling, and infrastructure products.
+<div align="center">
 
-I like building from first principles: clear architecture, explicit trust boundaries, predictable runtime behavior, useful diagnostics, and a product experience that respects its users.
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-motion.gif" width="100%" alt="Animated introduction: Eshan Roy, Founder and Systems Engineer, building from first principles across AI, Linux, developer tools and infrastructure" />
 
-My goal is to turn ambitious engineering ideas into software that is dependable, understandable, and genuinely useful.
+</div>
+
+I'm **Eshan Roy**, Founder & CEO of **[Tonmoy Infrastructure & Vision](https://tonmoyinfrastructure.org)**. I turn ambitious engineering ideas into dependable software, working across autonomous AI, Linux ecosystems, developer tooling, and infrastructure.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 / THINK IN SYSTEMS**
+
+I start with first principles: clear architecture, explicit boundaries, and an understanding of how components behave together.
+
+</td>
+<td width="34%" valign="top">
+
+**02 / BUILD THE FOUNDATIONS**
+
+I work close to the runtime, tools, platforms, and infrastructure that make ambitious products practical.
+
+</td>
+<td width="33%" valign="top">
+
+**03 / SHIP WITH INTENT**
+
+I value secure defaults, predictable behavior, useful diagnostics, and experiences that respect the people using them.
+
+</td>
+</tr>
+</table>
+
+<sub>My north star: make complex engineering feel clear, capable, and dependable.</sub>
 
 ## The engineering map
 
