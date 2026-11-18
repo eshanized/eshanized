@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-motion-v3.gif" width="100%" alt="Animated introduction: Eshan Roy, Founder and Systems Engineer, building from first principles across AI, Linux, developer tools and infrastructure" />
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-banner.svg" width="100%" alt="Eshan Roy — Founder and Systems Engineer building the systems behind ambitious ideas across AI, Linux, developer tools and infrastructure" />
 
 </div>
 
@@ -46,7 +46,11 @@ I value secure defaults, predictable behavior, useful diagnostics, and experienc
 </tr>
 </table>
 
-<sub>My north star: make complex engineering feel clear, capable, and dependable.</sub>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/eshanized/eshanized/master/assets/about-pulse.gif" width="20" height="20" alt="Animated teal signal" /> <sub>BUILDING IN PUBLIC · ENGINEERING WITH INTENT</sub>
+
+</div>
 
 ## The engineering map
 
