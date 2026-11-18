@@ -17,7 +17,7 @@
 <text x="29" y="103" fill="#a8bbcd" font-family="Arial,sans-serif" font-size="12">Connecting assistants to capable tools.</text>
 <path d="M29 122H125" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round"/>
 <g>
-      <g transform="translate(850 78)" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
+      <g transform="translate(585 78)" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
         <path d="M-46 -26L0 0 46 -26M-46 -26V27L0 53 46 27V-26M0 0V53"/>
         <circle cx="-46" cy="-26" r="8" fill="#163b50"/><circle cx="46" cy="-26" r="8" fill="#163b50"/>
         <circle cx="0" cy="0" r="9" fill="#163b50"/><circle cx="-46" cy="27" r="6" fill="#163b50"/><circle cx="46" cy="27" r="6" fill="#163b50"/>
